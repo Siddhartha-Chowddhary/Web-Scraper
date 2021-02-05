@@ -39,7 +39,6 @@ for link in links:
                 f.close()
 
             
-Number = int(0)
 for link in links:
     if "Patient Leaflet" in link.text:
         Number += 1
