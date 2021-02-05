@@ -1,0 +1,191 @@
+
+
+This information is intended for use by health professionals
+
+1. Name of the medicinal product
+Acamprosate 333 mg Gastro-resistant Tablets.
+2. Qualitative and quantitative composition
+Each gastro-resistant tablet contains acamprosate calcium 333.0 mg as the active ingredient.
+For the full list of excipients, see section 6.1.
+3. Pharmaceutical form
+Gastro-resistant tablet.
+White, round, biconvex coated tablet plain on both sides.
+4. Clinical particulars
+4.1 Therapeutic indications
+Acamprosate is indicated as therapy to maintain abstinence in alcohol-dependent patients. It should be combined with counselling. 
+4.2 Posology and method of administration
+
+Posology
+
+
+Adults within the age range 18-65 years
+
+- 2 tablets three times daily with meals (2 tablets in the morning, noon and night) in subjects weighing 60kg or more. 
+- In subjects weighing less than 60kg, 4 tablets divided into three daily doses with meals (2 tablets in the morning, 1 at noon and 1 at night). 
+
+Paediatric population and older people
+
+Acamprosate should not be administered to children, adolescents and the elderly. 
+
+Duration of treatment
+
+The recommended treatment period is one year. Treatment with acamprosate should be initiated as soon as possible after the withdrawal period and should be maintained if the patient relapses.
+Acamprosate does not prevent the harmful effects of continuous alcohol abuse. Continued alcohol abuse negates the therapeutic benefit; therefore acamprosate treatment should only be initiated after weaning therapy, once the patient is abstinent from alcohol.
+
+Method of administration
+
+For oral use.
+Swallow this tablet whole. Do not chew or crush the tablet as this may damage the gastro-resistant coating.
+4.3 Contraindications
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+Breast-feeding women (see section 4.6) 
+Patients with renal impairment (serum creatinine >120 micromol/l)
+4.4 Special warnings and precautions for use
+The safety and efficacy of acamprosate has not been established in patients younger than 18 years or older than 65 years. Acamprosate is therefore not recommended for use in these populations. 
+The safety and efficacy of acamprosate has not been established in patients with severe liver insufficiency (Childs-Pugh Classification C). 
+Because the interrelationship between alcohol dependence, depression and suicidality is well-recognised and complex, it is recommended that alcohol-dependent patients, including those treated with acamprosate, be monitored for such symptoms. 
+
+Abuse and dependence 
+
+Non-clinical studies suggest that acamprosate has little or no abuse potential. No evidence of dependence on acamprosate was found in any clinical study thus demonstrating that acamprosate has no significant dependence potential.
+4.5 Interaction with other medicinal products and other forms of interaction
+The concomitant intake of alcohol and acamprosate does not affect the pharmacokinetics of either alcohol or acamprosate. Administering acamprosate with food diminishes the bioavailability of the drug compared with its administration in the fasting state. 
+In clinical trials, acamprosate has been safely administered in combination with antidepressants, anxiolytics, hypnotics and sedatives, and non-opioid analgesics.
+ 
+No change in the frequency of clinical and/or biological adverse reactions has been shown when acamprosate is used concomitantly with disulfiram, oxazepam, tetrabamate or meprobamate.
+Pharmacokinetic studies have been completed and show no interaction between acamprosate and diazepam, imipramine. 
+There is no information available on the concomitant administration of acamprosate with diuretics.
+4.6 Fertility, pregnancy and lactation
+
+Pregnancy
+
+There are no adequate data from the use of acamprosate in pregnant women. Animal studies do not indicate any evidence of foetotoxicity or tetragenicity. Acamprosate must therefore only be used during pregnancy after a careful benefit/risk assessment, when the patient cannot abstain from drinking alcohol without being treated with acamprosate and when there is consequently a risk of foetotoxicity or teratogenicity due to alcohol.
+
+Breast-feeding
+
+It is known that acamprosate is excreted in the milk of lactating animals. It is not known whether acamprosate is excreted in human milk. There are no adequate data from the use of acamprosate in infants. Acamprosate must therefore not be used in breastfeeding women. 
+If a breastfeeding woman cannot abstain from drinking alcohol without being treated with acamprosate, a decision must be made whether to discontinue breast-feeding or to discontinue Acamprosate, taking into account the importance of the medicinal product to the woman. 
+
+Fertility
+
+In animal studies, no adverse effects on fertility were observed. Whether or not acamprosate affects the fertility in humans is unknown.
+4.7 Effects on ability to drive and use machines
+Acamprosate has no influence on the ability to drive and use machines.
+4.8 Undesirable effects
+According to information collected during clinical trials and spontaneous reports since marketing authorisation, the following adverse reactions may occur under treatment with Acamprosate. 
+The following definitions apply to the frequency terminology used hereafter: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data). 
+ Immune system disorders: 
+ 
+Very rare: Hypersensitivity reactions including urticaria, angio-oedema or anaphylactic reactions.
+ Psychiatric disorders: 
+ 
+Common: Decreased libido. 
+
+
+Uncommon: Increased libido.
+ Gastrointestinal disorders: 
+ 
+Very common: Diarrhoea. 
+ 
+Common: Abdominal pain, nausea, vomiting, flatulence. 
+ Skin and subcutaneous tissue disorders: 
+ 
+Common: Pruritus, maculo-papular rash. 
+ 
+Not known: Vesiculo-bullous eruptions. 
+ Reproductive system and breast disorders: 
+ 
+Common: Frigidity or impotence. 
+
+
+Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via Yellow Card Scheme at: www.mhra.gov.uk/yellowcard or search for MHRA Yellow Card in the Google Play or Apple App Store..
+4.9 Overdose
+Acute overdose is usually mild. In the reported cases, the only symptom which can be reasonably related to overdose is diarrhoea. No case of hypercalcaemia has ever been reported. Treatment of overdose is directed to symptoms.
+5. Pharmacological properties
+5.1 Pharmacodynamic properties
+Pharmacotherapeutic group: Drugs used in addictive disorders, drugs used in alcohol dependence, ATC code: N07BB03 
+
+Mechanism of action
+
+Acamprosate (calcium acetylhomotaurinate) has a chemical structure similar to that of amino acid neuromediators, such as taurine or gamma-amino-butyric acid (GABA), including an acetylation to permit passage across the blood brain barrier. 
+
+Pharmacodynamic effects
+
+Acamprosate may act by stimulating GABAergic inhibitory neurotransmission and antagonising excitatory amino-acids, particularly glutamate.
+Animal experimental studies have demonstrated that acamprosate affects alcohol dependence in rats, decreasing the voluntary intake of alcohol without affecting food and total fluid intake.
+5.2 Pharmacokinetic properties
+
+Absorption
+
+Acamprosate absorption across the gastrointestinal tract is moderate, slow and sustained and varies substantially from person to person. Food reduces the oral absorption of acamprosate. Steady state levels of acamprosate are achieved by the seventh day of dosing.
+Oral absorption shows considerable variability and is usually less than 10% of the ingested drug in the first 24 hours.
+
+Distribution
+
+Acamprosate is not protein bound.
+
+Biotransformation
+
+The drug is not metabolised significantly.
+
+Elimination
+
+The drug is excreted in the urine.
+
+Linearity
+
+There is a linear relationship between creatinine clearance values and total apparent plasma clearance, renal clearance and plasma half-life of acamprosate. 
+
+Hepatic impairment
+
+The kinetics of acamprosate are not modified in group A or B of the Child-Pugh classification of impaired liver function, a population which is likely to be part of the target population for acamprosate. This is in accordance with the absence of hepatic metabolism of the drug.
+5.3 Preclinical safety data
+In the preclinical studies, signs of toxicity are related to the excessive intake of calcium and not to acetylhomotaurine. Disorders of phosphorus/calcium metabolism have been observed including diarrhoea, soft tissue calcification, renal and cardiac lesions. Acamprosate had no mutagenic or carcinogenic effect, nor any teratogenic or adverse effects on the male or female reproductive systems of animals. Detailed in vitro and in vivo research on acamprosate to detect genetic and chromosomal mutations has not produced any evidence of potential genetic toxicity.
+6. Pharmaceutical particulars
+6.1 List of excipients
+
+Tablet Core:
+
+Glycerol dibehenate
+Cellulose, microcrystalline 
+Hypromellose
+Silica, Colloidal anhydrous
+Magnesium stearate 
+
+Tablet seal coating:
+
+Hypromellose
+
+Tablet gastro-resistant coating:
+
+Methacrylic acid-ethyl acrylate copolymer
+Talc
+Propylene glycol
+6.2 Incompatibilities
+Not applicable.
+6.3 Shelf life
+3 years.
+6.4 Special precautions for storage
+This medicinal product does not require any special storage conditions.
+6.5 Nature and contents of container
+PVC blister in packs of 84, 168 and multipacks containing 168 (2 packs of 84) tablets.
+Not all pack sizes may be marketed.
+6.6 Special precautions for disposal and other handling
+No special requirements for disposal.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+7. Marketing authorisation holder
+Generics [UK] Limited t/a Mylan
+Station Close
+Potters Bar
+Hertfordshire
+EN6 1TL
+United Kingdom
+8. Marketing authorisation number(s)
+PL 04569/1610
+9. Date of first authorisation/renewal of the authorisation
+Date of first authorisation: 14 October 2014
+10. Date of revision of the text
+June 2020
+

@@ -1,0 +1,317 @@
+
+
+This information is intended for use by health professionals
+
+1. Name of the medicinal product
+Acarbose 50 mg Tablets 
+2. Qualitative and quantitative composition
+1 tablet of Acarbose Tablets 50 mg contains 50 mg of acarbose
+For a full list of excipients, see section 6.1.
+3. Pharmaceutical form
+Tablet.
+ 
+Tablets 50 mg: white to yellowish, round, biconvex
+4. Clinical particulars
+Acarbose is recommended for the treatment of type 2 diabetes (non-insulin dependent) in patients inadequately controlled on diet alone, or on diet and (i) metformin and / or (ii) a sulphonylurea.
+4.1 Therapeutic indications
+
+Indications
+
+Acarbose is recommended for the treatment of non-insulin dependent NIDDM) diabetes mellitus in patients inadequately controlled on diet alone, or on diet and oral hypoglycaemic agents .
+
+Mode of action
+
+Acarbose is a competitive inhibitor of intestinal alpha-glucosidases with maximum specific inhibitory activity against sucrase. Under the influence of Acarbose, the digestion of starch and sucrose into absorbable monosaccharides in the small intestine is dose-dependently delayed. In diabetic subjects, this results in a lowering of postprandial hyperglycaemia and a smoothing effect on fluctuations in the daily blood glucose profile.
+In contrast to sulphonylureas, Acarbose has no stimulatory action on the pancreas.
+Treatment with Acarbose also results in a reduction of fasting blood glucose and to modest changes in levels of glycated haemoglobin (HbA1, HbA1C).
+The changes may be a reduction or reduced deterioration in HbA1 or HbA1C levels, depending upon the patient's clinical status and disease progression. These parameters are affected in a dose-dependent manner by Acarbose.
+Following oral administration, only 1-2% of the active inhibitor is absorbed.
+4.2 Posology and method of administration
+ Posology
+Owing to the great individual variation of glucosidase activity in the intestinal mucosa, there is no fixed dosage regimen, and patients should be treated according to clinical response and tolerance of intestinal side effects.
+
+Adults
+
+The recommended initial dose is 50mg three times a day. However, some patients may benefit from more gradual initial dose titration to minimise gastrointestinal side effects. This may be achieved by initiating treatment at 50mg once or twice a day, with subsequent titration to a three times a day regimen.
+ 
+If after six to eight weeks' treatment patients show an inadequate clinical response, the dosage may be increased to 100mg three times a day. A further increase in dosage to a maximum of 200mg three times a day may occasionally be necessary.
+ 
+Acarbose is intended for continuous long-term treatment.
+If adverse events occur in spite of strict adherence to the diabetic diet, the dose should not be increased and if necessary should be reduced (see section 4.8).
+ 
+
+ Elderly subjects: 
+No modification of the normal adult dosage regimen is necessary.
+ 
+
+Paediatric population
+
+The efficacy and safety of acarbose in children and adolescents have not been established. Acarbose is not recommended for patients under the age of 18 years.
+
+Renal or hepatic impairment
+
+See section 4.3.
+
+Method of administration 
+
+Acarbose tablets are taken orally and should be swallowed whole with a little liquid directly before the meal or chewed with the first mouthful of food. 
+4.3 Contraindications
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1, pregnancy and in nursing mothers.
+Acarbose is also contraindicated in patients with inflammatory bowel disease, colonic ulceration, partial intestinal obstruction or in patients predisposed to intestinal obstruction.  In addition, Acarbose should not be used in patients who have chronic intestinal diseases associated with marked disorders of digestion or absorption and in patients who suffer from states which may deteriorate as a result of increased gas formation in the intestine, e.g. larger hernias.
+ 
+-Acarbose is contraindicated in patients with hepatic impairment (e.g. liver cirrhosis).
+ 
+-As Acarbose has not been studied in patients with severe renal failure, it should not be used in patients with a creatinine clearance <25 ml/min/1.73m².
+ 
+4.4 Special warnings and precautions for use
+
+Hypoglycaemia:  Acarbose has an antihyperglycaemic effect, but does not itself induce hypoglycaemia. 
+If acarbose is prescribed in addition to other blood glucose lowering drugs (e.g. sulphonylureas metformin, or insulin) a fall of the blood glucose values into the hypoglycaemic range may require a dose adaption of the respective co-medication. If acute hypoglycemia develops glucose should be used for rapid correction of hypoglycaemia (see section 4.5).
+ 
+Episodes of hypoglycaemia occurring during therapy must, where appropriate, be treated by the administration of glucose, not sucrose. This is because acarbose will delay the digestion and absorption of disaccharides, but not monosaccharides.
+ 
+
+Transaminases:  Cases of fulminant hepatitis have been reported during acarbose therapy. The mechanism is unknown, but acarbose may contribute to a multifactorial pathophysiology of liver injury. It is recommended that liver enzyme monitoring is considered during the first 6 to 12 months of treatment (see section 4.8).
+If elevated transaminases are observed, withdrawal of therapy may be warranted, particularly if the elevations persist.  In such circumstances, patients should be monitored at weekly intervals until normal values are established.
+ 
+The administration of antacid preparations containing magnesium and aluminium salts, e.g. hydrotalcite, has been shown not to ameliorate the acute gastrointestinal symptoms of Acarbose in higher dosage and should, therefore, not be recommended to patients for this purpose.
+ 
+ 
+4.5 Interaction with other medicinal products and other forms of interaction
+When administered alone, acarbose does not cause hypoglycaemia. It may, however, act to potentiate the hypoglycaemic effects of insulin, metformin and sulphonylurea drugs, and the dosages of these agents may need to be modified accordingly. In individual cases hypoglycaemic shock may occur (i.e. clinical sequelae of glucose levels < 1 mmol/L such as altered conscious levels, confusion or convulsions).
+Episodes of hypoglycaemia occurring during therapy must, where appropriate, be treated by the administration of glucose, not sucrose. This is because acarbose will delay the digestion and absorption of disaccharides, but not monosaccharides.
+Sucrose (cane sugar) and foods  containing sucrose, often  cause abdominal discomfort or even diarrhoea during treatment with acarbose as a result of increased fermentation of carbohydrates in the colon.
+ 
+Intestinal adsorbents (e.g. charcoal) and digestive enzyme preparations containing carbohydrate splitting enzymes (e.g. amylase, pancreatin) may reduce the effect of Acarbose and should not therefore be taken concomitantly.
+ 
+The concomitant administration of acarbose and oral neomycin may lead to enhanced reductions of postprandial blood glucose and to an increase in the frequency and severity of gastro-intestinal side effects.  If the symptoms are severe, a temporary dose reduction of acarbose may be warranted.
+ 
+The concomitant administration of colestyramine may enhance the effects of Acarbose, particularly with respect to reducing postprandial insulin levels.  Simultaneous administration of Acarbose and colestyramine should, therefore, be avoided.  In the rare circumstance that both Acarbose and colestyramine therapy are withdrawn simultaneously, care is needed as a rebound phenomenon has been observed with respect to insulin levels in non-diabetic subjects.
+ 
+In individual cases Acarbose may affect digoxin bioavailability, which may require dose adjustment of digoxin.  Monitoring of serum digoxin levels should be considered.
+ 
+In a pilot study to investigate a possible interaction between Acarbose and nifedipine, no significant or reproducible changes were observed in the plasma nifedipine profiles.
+ 
+ 
+4.6 Fertility, pregnancy and lactation
+
+Pregnancy
+
+Acarbose should not be administered during pregnancy as no information is available from clinical studies on its use in pregnant women.
+
+Breastfeeding 
+
+ After the administration of radioactively marked acarbose to nursing rats, a small amount of radioactivity was recovered in the milk. To date there have been no similar findings in humans.
+ 
+Nevertheless, as the possibility of drug induced effects on nursing infants cannot be excluded, the prescription of acarbose  is not recommended during breast-feeding.
+4.7 Effects on ability to drive and use machines
+No data are available on alteration of the ability to drive vehicles or use machines while on treatment with acarbose.
+4.8 Undesirable effects
+ The  frequencies of adverse drug reactions (ADRs) reported with Acarbose, based on placebo controlled studies (acarbose N = 8 595; placebo N = 7 278; status) aresummarised in the table below.
+ 
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Frequencies are defined as very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1000 to <1/100); rare (≥1/10 000 to <1/1000); very rare (<1/10 000).
+ The ADRs identified only during post-marketing surveillance (status: 31 Dec 2005), and for which a frequency could not be estimated, are listed under “not known”.
+ 
+
+
+System Organ Class(MedDRA)
+					
+				
+
+Very common
+
+
+
+Common
+
+
+
+Uncommon
+
+
+
+Rare
+
+
+
+Not known 
+
+
+
+Blood and lymphatic system disorders 
+
+
+
+
+
+
+
+
+
+
+Thrombo-cytopenia 
+
+
+Immune system disorders
+
+
+
+
+
+
+
+
+
+
+Drug hypersensitivity and hypersensitivity (rash, erythema, exanthema, urticaria)
+
+
+Vascular disorders
+
+
+
+
+
+
+
+
+Oedema
+
+
+
+
+Gastrointestinal disorders 
+
+
+Flatulence
+
+
+Diarrhea
+Gastrointestinal and abdominal pains
+
+Nausea
+Vomiting
+Dyspepsia
+
+
+
+Subileus/Ileus
+Pneumatosis cystoidis intestinalis i
+
+
+Hepatobiliary Disorders
+
+
+
+
+
+
+Increase in transami-nases
+
+Jaundice
+
+Hepatitis
+
+Skin and subcutaneous tissue disorders
+
+
+
+
+
+
+
+
+
+Acute generalised exanthematous pustulosis
+
+ 
+ 
+In post-marketing, cases of liver disorder, hepatic function abnormal, and liver injury have been reported. Individual cases of fulminant hepatitis with fatal outcome have also been reported, particularly from Japan.
+In patients receiving the recommended daily dose of 150 mg to 300 mg acarbose , clinically relevant abnormal liver function tests (three times above upper limit of normal range) were rarely observed. Abnormal values may be transient under ongoing acarbose therapy (see section 4.4).
+If the prescribed diabetic diet is not observed the intestinal side effects may be intensified. If strongly distressing symptoms develop in spite of adherence to the diabetic diet prescribed, the doctor must be consulted and the dose temporarily or permanently reduced.
+ 
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the Yellow Card Scheme at: www.mhra.gov.uk/yellowcard.
+4.9 Overdose
+When Acarbose tablets are taken with beverages and/or meals containing carbohydrates (polysaccharides, oligosaccharides or disaccharides), an overdose may cause meteorism, flatulence and diarrhoea.  If Acarbose tablets are taken independently of food, excessive intestinal symptoms need not be anticipated.
+No specific antidotes to Acarbose are known.
+Intake of carbohydrate-containing meals or beverages should be avoided for 4-6 hours. Diarrhoea should be treated by standard conservative measures.
+5. Pharmacological properties
+5.1 Pharmacodynamic properties
+Pharmacotherapeutic group: Blood glucose lowering drugs, excl. insulins. Alpha glucosidase inhibitors.
+ATC code: A10BF01
+ 
+
+Mechanism of action
+
+In all the species tested, acarbose its activity in the intestinal tract. The action of acarbose is based on the competitive inhibition of the intestinal enzymes (alpha-glucosidases) involved in the degradation of disaccharides, oligosaccharides and polysaccharides. This leads to a dose-dependent delay in digestion of these carbohydrates. Glucose derived from these carbohydrates is released and taken up into the blood more slowly. In this way, acarbose reduces the post-prandial rise in blood glucose, thus reducing blood glucose fluctuations.
+ 
+ 
+5.2 Pharmacokinetic properties
+Following oral administration, only 1-2% of the active inhibitor is absorbed.
+The pharmacokinetics of acarbose were investigated after oral administration of the 14C-labelled substance (200mg) to healthy volunteers.  On average, 35% of the total radioactivity (sum of the inhibitory substance and any degradation products) was excreted by the kidneys within 96 h.  The proportion of inhibitory substance excreted in the urine was 1.7% of the administered dose.  50% of the activity was eliminated within 96 hours in the faeces.  The course of the total radioactivity concentration in plasma was comprised of two peaks.  The first peak, with an average acarbose- equivalent concentration of 52.2 ± 15.7μg/l after 1.1 ± 0.3 h, is in agreement with corresponding data for the concentration course of the inhibitor substance (49.5 ± 26.9μg/l after 2.1 ± 1.6 h). The second peak is on average 586.3 ± 282.7μg/l and is reached after 20.7 ± 5.2 h. The second, higher peak is due to the absorption of bacterial degradation products from distal parts of the intestine. In contrast to the total radioactivity, the maximum plasma concentrations of the inhibitory substance are lower by a factor of 10-20.  The plasma elimination half-lives of the inhibitory substance are 3.7 ± 2.7 h for the distribution phase and 9.6 ± 4.4 h for the elimination phase.
+ 
+A relative volume of distribution of 0.32 l/kg body-weight has been calculated in healthy volunteers from the concentration course in the plasma.
+5.3 Preclinical safety data
+
+ Acute toxicity
+
+LD50 studies were performed in mice, rats and dogs. Oral LD50 values were estimated to be > 10 g/kg body-weight.
+Intravenous LD50 values ranged from 3.8 g/kg (dog) to 7.7 g/kg (mouse).
+
+Sub-chronic toxicity
+
+Three month studies have been conducted in rats and dogs in which acarbose was administered orally by gavage.
+In rats, daily doses of up to 450 mg/kg body-weight were tolerated without drug-related toxicity.
+In the dog study, daily doses of 50-450 mg/kg were associated with decreases in body-weight. This occurred because dosing of the animals took place shortly before the feed was administered, resulting in the presence of acarbose in the gastro-intestinal tract at the time of feeding. The pharmacodynamic action of acarbose led to a reduced availability of carbohydrate from the feed, and hence to weight loss in the animals. A greater time interval between dosing and feeding in the rat study resulted in most of the drug being eliminated prior to feed intake, and hence no effect on bodyweight development was observed.
+Owing to a shift in the intestinal α-amylase synthesis feedback mechanism a reduction in serum α-amylase activity was also observed in the dog study. Increases in blood urea concentrations in acarbose-treated dogs also occurred, probably as a result of increased catabolic metabolism associated with the weight loss.
+
+Chronic toxicity
+
+In rats treated for one year with up to 4500 ppm acarbose in their feed, no drug-related toxicity was observed. In dogs, also treated for one year with daily doses of up to 400 mg/kg by gavage, a pronounced reduction in body-weight development was observed, as seen in the sub-chronic study. Again this effect was due to an excessive pharmacodynamic activity of acarbose and was reversed by increasing the quantity of feed.
+
+Carcinogenicity studies
+
+In a study in which Sprague-Dawley rats received up to 4500 ppm acarbose in their feed for 24-26 months, malnutrition was observed in animals receiving the drug substance. A dose-dependent increase in tumours of the renal parenchyma (adenoma, hypernephroid carcinoma) was also observed against a background of a decrease in the overall tumour rate. When this study was repeated, an increase in benign tumours of testicular Leydig cells was also observed. Owing to the malnutrition and excessive decrease in bodyweight gain these studies were considered inadequate to assess the carcinogenic potential of acarbose.
+In further studies with Sprague-Dawley rats in which the malnutrition and glucose deprivation were avoided by either dietary glucose supplementation or administration of acarbose by gavage, no drug-related increases in the incidences of renal or Leydig cell tumours were observed.
+In an additional study using Wistar rats and doses of up to 4500 ppm acarbose in the feed, neither drug-induced malnutrition nor changes in the tumour profile occurred. Tumour incidences were also unaffected in hamsters receiving up to 4000 ppm acarbose in the feed for 80 weeks (with and without dietary glucose supplementation).
+
+Reproductive toxicity
+
+There was no evidence of a teratogenic effect of acarbose in studies with oral doses of up to 480 mg/kg/day in rats and rabbits.
+In rats no impairment of fertility was observed in males or females at doses of up to 540 mg/kg/day. The oral administration of up to 540 mg/kg/day to rats during foetal development and lactation had no effect on parturition or on the young.
+
+Mutagenicity
+
+The results of a number of mutagenicity studies show no evidence of a genotoxic potential of acarbose.
+6. Pharmaceutical particulars
+6.1 List of excipients
+Colloidal silicon dioxide, 
+Magnesium stearate,
+Maize starch,
+Microcrystalline cellulose
+6.2 Incompatibilities
+Not applicable.
+6.3 Shelf life
+4 years.
+6.4 Special precautions for storage
+Store below 25°C
+6.5 Nature and contents of container
+Packs of 90 tablets in PVC/PE/PVDC-Aluminium blisters
+6.6 Special precautions for disposal and other handling
+No special requirements.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+7. Marketing authorisation holder
+Glenmark Pharmaceuticals Europe Limited
+Laxmi House, 2B Draycott Avenue, 
+Kenton, Middlesex, 
+HA3 0BU
+United Kingdom
+8. Marketing authorisation number(s)
+PL 25258/0091
+9. Date of first authorisation/renewal of the authorisation
+Date of latest renewal: 14/12/2018
+10. Date of revision of the text
+14/12/2018
+

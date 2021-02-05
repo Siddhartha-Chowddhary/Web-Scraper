@@ -1,0 +1,574 @@
+
+
+This information is intended for use by health professionals
+
+1. Name of the medicinal product
+Accupro 5 mg film-coated tablets
+2. Qualitative and quantitative composition
+5 mg quinapril (as 5.416 mg quinapril hydrochloride).
+
+Excipient(s) with known effect:
+
+Lactose, 36 mg per tablet.
+For the full list of excipients, see section 6.1.
+3. Pharmaceutical form
+Film-coated tablet.
+Reddish-brown, oval, film-coated tablets, scored on both sides and “5” debossed on both sides. The score line is only to facilitate breaking for ease of swallowing and not to divide into equal doses.
+4. Clinical particulars
+4.1 Therapeutic indications
+(1) For the treatment of all grades of essential hypertension. Accupro is effective as monotherapy or concomitantly with diuretics in patients with hypertension (see sections 4.3, 4.4, 4.5 and 5.1).
+(2) For the treatment of congestive heart failure when given concomitantly with a diuretic and/or cardiac glycoside. Treatment of congestive heart failure with Accupro should always be initiated under close medical supervision.
+4.2 Posology and method of administration
+
+Posology
+
+
+Adults
+
+
+
+Hypertension
+
+
+- Monotherapy:
+The recommended initial dosage is 10 mg once daily in uncomplicated hypertension. Depending upon clinical response, patient's dosage may be titrated (by doubling the dose allowing adequate time for dosage adjustment) to a maintenance dosage of 20 mg/day to 40 mg/day given as a single dose or divided into 2 doses. Long-term control is maintained in most patients with a single daily dosage regimen. Patients have been treated with dosages up to 80 mg/day. Take either with or without food. The dose should always be taken at about the same time of day to help increase compliance.
+- Concomitant Diuretics:
+In order to determine if excess hypotension will occur, an initial dosage of 2.5 mg of Accupro is recommended in patients who are being treated with a diuretic. After this the dosage of Accupro should be titrated (as described above) to the optimal response (see sections 4.3, 4.4, 4.5 and 5.1).
+
+
+Congestive Heart Failure
+
+
+In order to closely monitor patients for symptomatic hypotension, a single 2.5 mg initial dosage is recommended. After this, patients should be titrated to an effective dose: (up to 40 mg/day) given in 1 or 2 doses with concomitant diuretic and/or cardiac glycoside therapy. Patients are usually maintained effectively on doses of 10 mg/day to 20 mg/day given with concomitant therapy. Take either with or without food. The dose should always be taken at about the same time of day to help increase compliance.
+In the treatment of severe or unstable congestive heart failure, Accupro should always be initiated in hospital under close medical supervision.
+Other patients who may also be considered to be at higher risk and should have treatment initiated in hospital include: patients who are on high dose loop diuretics (e.g. > 80 mg furosemide) or on multiple diuretic therapy, have hypovolemia, hyponatremia (serum sodium < 130 mgEq/l) or systolic blood pressure < 90 mm Hg, are on high dose vasodilator therapy, have a serum creatinine > 150 µmol/l or are aged 70 years or over. 
+
+Elderly/Renal Impairment
+
+In elderly patients and in patients with a creatinine clearance of less than 40 mL/min, an initial dosage in essential hypertension of 2.5 mg is recommended followed by titration to the optimal response (see section 4.4).
+
+Paediatric population
+
+Currently available data are described in sections 5.1 and 5.2 but no recommendation on a posology can be made.
+
+Method of administration
+
+For oral use. The tablets should not be chewed, crushed or divided. 
+4.3 Contraindications
+Accupro is contraindicated:
+
+			• In patients with hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+			• In the second and third trimesters of pregnancy (see sections 4.4 and 4.6).
+
+			• In patients with a history of angioedema related to previous treatment with angiotensin converting enzyme (ACE) inhibitors.
+
+			• In patients with hereditary or idiopathic angioneurotic oedema.
+
+			• In patients with dynamic left ventricular outflow obstruction.
+
+			• With administration of aliskiren-containing products in patients with diabetes mellitus or in patients with renal impairment (glomerular filtration rate [GFR] < 60 ml/min/1.73 m2) (see sections 4.5 and 5.1).
+
+			• In combination with sacubitril/valsartan due to the increased risk of angioedema.
+4.4 Special warnings and precautions for use
+
+Aortic Stenosis
+
+Quinapril should be used in caution in selected patients with aortic stenosis. 
+
+Sensitivity Reactions
+
+Sensitivity reactions may occur in patients with or without a history of allergy or bronchial asthma, e.g. purpura, photosensitivity, urticaria, necrotising angiitis, respiratory distress including pneumonitis and pulmonary oedema and anaphylactic reactions.
+ 
+Patients haemodialysed using high-flux polyacrylonitrile ('AN69') membranes are highly likely to experience anaphylactoid reactions if they are treated with ACE inhibitors. This combination should therefore be avoided, either by use of alternative antihypertensive drugs or alternative membranes for haemodialysis. Similar reactions have been observed during low density lipoprotein (LDL) apheresis with dextran-sulfate. This method should therefore not be used in patients treated with ACE inhibitors.
+
+Impaired Hepatic Function
+
+Quinapril when combined with a diuretic should be used with caution in patients with impaired hepatic function or progressive liver disease, since minor alterations of fluid and electrolyte balance may precipitate hepatic coma. The metabolism of quinapril to quinaprilat is normally dependent upon hepatic esterase. Quinaprilat concentrations are reduced in patients with alcoholic cirrhosis due to impaired de-esterification of quinapril. 
+Rarely, ACE inhibitors have been associated with a syndrome beginning as a cholestatic jaundice and progressing to a fulminant hepatic necrosis (in some cases fatal). Patients who, during ACE inhibitor therapy, experience jaundice or clearly elevated hepatic enzymes should discontinue quinapril and receive appropriate medical follow-up.
+
+Cough
+
+Cough has been reported with the use of ACE inhibitors. Characteristically, the cough is non-productive, persistent and resolves after discontinuation of therapy. ACE inhibitor-induced cough should be considered as part of the differential diagnosis of cough. 
+
+Surgery/Anaesthesia
+
+In patients undergoing major surgery or during anaesthesia with agents that produce hypotension, quinapril may block angiotensin II formation secondary to compensatory renin release. If hypotension occurs and is considered to be due to this mechanism, it can be corrected by volume expansion (see section 4.5). 
+
+Hyperkalaemia
+
+Patients on quinapril alone may have increased serum potassium levels. Because of the risk of further potentiating increases in serum potassium it is advised that combination therapy with potassium-sparing diuretics or other drugs known to raise serum potassium levels, be initiated with caution and the patient's serum potassium levels be closely monitored (see Hypotension below and section 4.5). When administered concomitantly, quinapril may reduce the hypokalaemia induced by thiazide diuretics.
+
+Hyponatraemia and Syndrome of Inappropriate Anti-Diuretic Hormone (SIADH)
+
+Syndrome of Inappropriate Anti-Diuretic Hormone (SIADH) and subsequent hyponatraemia has been observed in some patients treated with other ACE inhibitors. It is recommended that serum sodium levels be monitored regularly in the elderly and in other patients at risk of hyponatraemia.
+
+Diabetic Patients
+
+In diabetic patients ACE inhibitors may enhance insulin sensitivity and have been associated with hypoglycaemia in patients treated with oral antidiabetic agents or insulin. Glycaemic control should be closely monitored during the first month of treatment with an ACE inhibitor (see section 4.5). 
+
+Anaphylactoid Reactions
+
+Patients receiving ACE inhibitors during desensitising treatment with hymenoptera venom have experienced life-threatening anaphylactoid reactions. These reactions were avoided by temporarily withholding ACE inhibitor therapy prior to each desensitisation, but they have reappeared upon inadvertent re-challenge.
+
+Impaired Renal Function
+
+In patients with renal insufficiency, monitoring of renal function during therapy should be performed as deemed appropriate, although in the majority renal function will not alter or may improve. 
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals. In patients with severe heart failure whose renal function may depend on the activity of the renin-angiotensin-aldosterone system, treatment with ACE inhibitors including quinapril, may be associated with oliguria and/or progressive azotaemia and rarely acute renal failure and/or death.
+The half-life of quinaprilat is prolonged as creatinine clearance falls. Patients with a creatinine clearance of <60 mL/min require a lower initial dosage of quinapril (see section 4.2). These patients' dosage should be titrated upwards based upon therapeutic response, and renal function should be closely monitored although initial studies do not indicate that quinapril produces further deterioration in renal function.
+In clinical studies in hypertensive patients with unilateral or bilateral renal artery stenosis, increases in blood urea nitrogen and serum creatinine have been observed in some patients following ACE inhibitor therapy. These increases were almost always reversible upon discontinuation of the ACE inhibitor and/or diuretic therapy. In such patients, renal function should be monitored during the first few weeks of therapy.
+Some patients with hypertension or heart failure with no apparent pre-existing renal disease have developed increases (>1.25 times the upper limit of normal) in blood urea nitrogen and serum creatinine, usually minor and transient, especially when quinapril has been given concomitantly with a diuretic. Increases in blood urea nitrogen and serum creatinine have been observed in 2% and 2%, respectively of hypertensive patients on quinapril monotherapy and in 4% and 3%, respectively of hypertensive patients on quinapril/HCTZ. This is more likely to occur in patients with pre-existing renal impairment. Dosage reduction and/or discontinuation of the diuretic and/or quinapril may be required.
+
+Dual Blockade of the Renin-Angiotensin-Aldosterone System (RAAS)
+
+There is evidence that the concomitant use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren increases the risk of hypotension, hyperkalaemia and decreased renal function (including acute renal failure). Dual blockade of RAAS through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is therefore not recommended (see sections 4.5 and 5.1).
+If dual blockade therapy is considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure.
+ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
+There is insufficient experience in patients with severe renal impairment (creatinine clearance <10 mL/min). Treatment is therefore not recommended in these patients. 
+
+Angioedema
+
+Angioedema has been reported in patients treated with ACE inhibitors. If laryngeal stridor or angioedema of the face, tongue, or glottis occur, treatment should be discontinued immediately, the patient treated appropriately in accordance with accepted medical care, and carefully observed until the swelling disappears. In instances where swelling is confined to the face and lips, the condition generally resolves without treatment; antihistamines may be useful in relieving symptoms. Angioedema associated with laryngeal involvement may be fatal. Where there is involvement of the tongue, glottis, or larynx likely to cause airway obstruction, appropriate therapy e.g., subcutaneous adrenaline solution 1:1000 (0.3 to 0.5 mL) should be promptly administered. 
+Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see section 4.3). 
+The combination of quinapril with sacubitril/valsartan is contraindicated due to the increased risk of angioedema (see section 4.3). Sacubitril/valsartan must not be initiated until 36 hours after taking the last dose of quinapril therapy. If treatment with sacubitril/valsartan is stopped, quinapril therapy must not be initiated until 36 hours after the last dose of sacubitril/valsartan (see sections 4.3 and 4.5). Concomitant use of other NEP inhibitors (e.g. racecadotril) and ACE inhibitors may also increase the risk of angioedema (see section 4.5). Hence, a careful benefit-risk assessment is needed before initiating treatment with NEP inhibitors (e.g. racecadotril) in patients on quinapril.
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus) or concomitant DPP-IV inhibitor (e.g. vildagliptin) therapy may be at increased risk for angioedema. Caution should be used when starting an mTOR inhibitor or a DPP-IV inhibitor in a patient already taking an ACE inhibitor.
+
+Ethnic Differences
+
+Black patients receiving ACE inhibitor therapy have been reported to have a higher incidence of angioedema compared to non-black patients. It should also be noted that in controlled clinical trials, ACE inhibitors have an effect on blood pressure that is less in black patients than in non-black patients. 
+
+Intestinal Angioedema
+
+Intestinal angioedema has been reported in patients treated with ACE inhibitors. These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal. The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor. Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
+
+Hypotension
+
+Symptomatic hypotension was rarely seen in uncomplicated hypertensive patients treated with Accupro but it is a possible consequence of ACE inhibitor therapy particularly in salt/volume depleted patients such as those previously treated with diuretics, who have a dietary salt reduction, who are on dialysis, have diarrhoea or vomiting or have severe renin-dependent hypertension. If symptomatic hypotension occurs, the patient should be placed in the supine position and, if necessary, receive an intravenous infusion of normal saline. A transient hypotensive response is not a contraindication to further doses; however, lower doses of quinapril or any concomitant diuretic therapy should be considered if this event occurs.
+In patients with congestive heart failure, who are at risk of excessive hypotension, quinapril therapy should be started at the recommended dose under close medical supervision; these patients should be followed closely for the first 2 weeks of treatment and whenever the dosage of quinapril is increased. 
+Similar considerations apply to patients with ischaemic heart or cerebrovascular disease in whom an excessive fall in blood pressure could result in a myocardial infarction or cerebrovascular accident. 
+
+Neutropenia/Agranulocytosis
+
+ACE inhibitors have been rarely associated with agranulocytosis and bone marrow depression in patients with uncomplicated hypertension but more frequently in patients with renal impairment, especially if they also have collagen vascular disease. As with other ACE inhibitors, monitoring of white blood cell counts in patients with collagen vascular disease and/or renal diseases should be considered.
+Pregnancy
+ACE inhibitors should not be initiated during pregnancy. Unless continued ACE inhibitor therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with ACE inhibitors should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
+
+Lactose
+
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not use this medicine.
+4.5 Interaction with other medicinal products and other forms of interaction
+
+Tetracycline and Other Drugs That Interact with Magnesium
+
+Because of the presence of magnesium carbonate in the formulation, Accupro has been shown in healthy volunteers to reduce the absorption of tetracycline in concomitant administration by 28-37%. This interaction should be considered if co-prescribing quinapril and tetracycline. It is recommended that concomitant administration with tetracycline be avoided.
+
+Concomitant Diuretic Therapy
+
+Patients treated with diuretics, especially those on recently instituted diuretic therapy, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with Accupro. This hypotensive effect may be effectively minimised by either discontinuing the diuretic a few days prior to initiation of therapy, or increasing the salt intake prior to the initial dose of Accupro. If discontinuation of the diuretic is not possible, the starting dose of Accupro should be reduced and medical supervision should be provided for up to two hours following administration of the initial dose (see sections 4.4 and 4.2).
+
+Agents Increasing Serum Potassium
+
+Quinapril is an ACE inhibitor capable of lowering aldosterone levels, which in turn can result in elevation in serum potassium. Concomitant treatments with potassium sparing diuretics, potassium supplements, potassium salts or other drugs known to raise serum potassium levels should be used with caution and with appropriate monitoring of serum potassium. As with other ACE inhibitors, patients on quinapril alone may have increased serum potassium levels. When administered concomitantly, quinapril may reduce the hypokalaemia induced by thiazide diuretics. In patients who are elderly or have compromised renal function, co-administration of an ACE inhibitor with sulfamethoxazole/trimethoprim has been associated with severe hyperkalaemia, which is thought to be due to trimethoprim. Quinapril and trimethoprim-containing products should therefore be co-administered with caution and with appropriate monitoring of serum potassium.
+
+Surgery/Anaesthesia
+
+Although no data are available to indicate there is an interaction between Accupro and anaesthetic agents that produces hypotension, caution should be exercised when patients undergo major surgery or anaesthesia since ACE inhibitors have been shown to block angiotensin II formation secondary to compensatory renin release. This may lead to hypotension which can be corrected by volume expansion (see section 4.4).
+
+Lithium
+
+Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving concomitant lithium and ACE inhibitor therapy due to the sodium-losing effect of these agents. These drugs should be co-administered with caution and frequent monitoring of serum lithium levels is recommended. If a diuretic is also used, it may increase the risk of lithium toxicity.
+
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 inhibitors)
+
+In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of non-steroidal anti-inflammatory drugs (NSAIDs), including selective COX-2 inhibitors, with ACE inhibitors, including quinapril, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving quinapril and NSAID therapy.
+The antihypertensive effect of ACE inhibitors, including quinapril may be attenuated by NSAIDs. 
+
+Other drugs known to cause Angioedema
+
+Patients taking concomitant mTOR inhibitor (e.g. temsirolimus) or concomitant DPP-IV inhibitor (e.g. vildagliptin) therapy may be at increased risk for angioedema. Caution should be used when starting an mTOR inhibitor or a DPP-IV inhibitor in a patient already taking an ACE inhibitor.
+
+NEP Inhibitors
+
+The concomitant use of quinapril with sacubitril/valsartan is contraindicated, as the concomitant inhibition of neprilysin (NEP) and ACE may increase the risk of angioedema. Sacubitril/valsartan must not be started until 36 hours after taking the last dose of quinapril therapy. Quinapril therapy must not be started until 36 hours after the last dose of sacubitril/valsartan (see sections 4.3 and 4.4). Concomitant use of other NEP inhibitors (e.g. racecadotril) and quinapril may also increase the risk of angioedema (see section 4.4).
+
+Gold
+
+Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (e.g. sodium aurothiomalate) and concomitant ACE inhibitor therapy. 
+
+Allopurinol, Cytostatic and Immunosuppressive Agents, Systemic Corticosteroids or Procainamide
+
+Concomitant administration with ACE inhibitors may lead to an increased risk for leukopenia.
+
+Alcohol, Barbiturates or Narcotics
+
+Potentiation of orthostatic hypotension may occur.
+
+Other Hypertensive Drugs
+
+There may be an additive effect or potentiation.
+
+Other Agents
+
+Co-administration of multiple 10 mg doses of atorvastatin with 80 mg quinapril resulted in no significant change in the steady-state pharmacokinetic parameters of atorvastatin.
+
+Antacids
+
+Antacids may decrease the bioavailability of quinapril.
+
+Antidiabetic Agents (Oral Hypoglycaemic Agents and Insulin)
+
+In diabetic patients ACE inhibitors may enhance insulin sensitivity and have been associated with hypoglycaemia in patients treated with oral antidiabetic agents and insulin. Glycaemic control should be closely monitored particularly during the first month of treatment with an ACE inhibitor (see section 4.4).
+
+Dual Blockade of the Renin-Angiotensin-Aldosterone-System (RAAS)
+
+Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone-system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
+
+Aliskiren
+
+Do not co-administer aliskiren with quinapril in patients with diabetes or in patients with renal impairment (GFR <60 mL/min/1.73m2).
+4.6 Fertility, pregnancy and lactation
+
+Pregnancy
+
+ The use of ACE inhibitors is not recommended during the first trimester of pregnancy (see section 4.4). The use of ACE inhibitors is contraindicated during the 2nd and 3rd trimester of pregnancy (see sections 4.3 and 4.4).
+
+Epidemiological evidence regarding the risk of teratogenicity following exposure to ACE inhibitors during the first trimester of pregnancy has not been conclusive; however a small increase in risk cannot be excluded. Unless continued ACE inhibitor therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with ACE inhibitors should be stopped immediately, and, if appropriate, alternative therapy should be started.
+Exposure to ACE inhibitor therapy during the second and third trimesters is known to induce human foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation and/or death in the newborn) and neonatal toxicity (renal failure, hypotension, hyperkalaemia) (see section 5.3). Should exposure to ACE inhibitor have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended. Limb contractures, craniofacial deformities, hypoplastic lung development and intrauterine growth retardation have been reported in association with oligohydramnios. 
+Infants whose mothers have taken ACE inhibitors should be closely observed for hypotension, oliguria and hyperkalaemia (see sections 4.3 and 4.4). If oliguria occurs, attention should be directed towards support of blood pressure and renal perfusion.
+
+Breast-feeding
+
+Limited pharmacokinetic data demonstrate very low concentrations in breast milk (see section 5.2). Although these concentrations seem to be clinically irrelevant, the use of Accupro in breastfeeding is not recommended for preterm infants and for the first few weeks after delivery, because of the hypothetical risk of cardiovascular and renal effects and because there is not enough clinical experience. 
+In the case of an older infant, the use of Accupro in a breast-feeding mother may be considered if this treatment is necessary for the mother and the child is observed for any adverse effect.
+4.7 Effects on ability to drive and use machines
+There are no studies on the effect of this medicine on the ability to drive. When driving vehicles or operating machines it should be taken into account that occasionally dizziness or weariness may occur.
+4.8 Undesirable effects
+The following undesirable effects have been observed and reported during treatment with quinapril with the following frequencies: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (≤1/10,000); not known (cannot be estimated from the available data).
+The most frequently adverse reactions found in controlled clinical trials were headache (7.2%), dizziness (5.5%), cough (3.9%), fatigue (3.5%), rhinitis (3.2%), nausea and/or vomiting (2.8%) and myalgia (2.2%). 
+
+
+
+System Organ Class
+
+
+
+Frequency
+
+
+
+Undesirable effects
+
+
+
+Infections and infestations
+
+
+Common
+
+Pharyngitis, rhinitis 
+
+Uncommon
+
+Bronchitis, upper respiratory tract infection, urinary tract infection, sinusitis 
+
+
+Blood and lymphatic system disorders
+
+
+Not Known
+
+Agranulocytosis, haemolytic anaemia, neutropenia, thrombocytopenia 
+
+
+Immune system disorders
+
+
+Not Known
+
+Anaphylactoid reaction
+
+
+Metabolism and nutrition disorders
+
+
+Common
+
+Hyperkalaemia
+
+Not Known
+
+Hyponatraemia (see section 4.4)
+
+
+Psychiatric disorders
+
+
+Common
+
+Insomnia
+
+Uncommon
+
+Confusional state, depression, nervousness 
+
+
+Nervous system disorders
+
+
+Common
+
+Dizziness, headache, paraesthesia
+
+Uncommon
+
+Transient ischaemic attack, somnolence  
+
+Rare
+
+Balance disorder, syncope
+
+Not Known 
+
+Cerebrovascular accident/cerebral haemorrhage
+
+
+Eye disorders
+
+
+Uncommon
+
+Amblyopia
+
+Very Rare
+
+Vision blurred 
+
+
+Ear and labyrinth disorders
+
+
+Uncommon
+
+Vertigo, tinnitus 
+
+
+Cardiac disorders
+
+
+Uncommon
+
+Myocardial infarction, angina pectoris, tachycardia, palpitations 
+
+
+Vascular disorders
+
+
+Common
+
+Hypotension 
+
+Uncommon
+
+Vasodilatation
+
+Not Known
+
+Orthostatic hypotension 
+
+
+Respiratory, thoracic and mediastinal disorders
+
+
+Common
+
+Dyspnoea, cough 
+
+Uncommon
+
+Dry throat
+
+Rare
+
+Eosinophilic pneumonia 
+
+Not Known
+
+Bronchospasm.
+In individual cases, upper airways obstruction by angioedema (that may be fatal)
+
+
+Gastrointestinal disorders
+
+
+Common
+
+Vomiting, diarrhoea, dyspepsia, abdominal pain, nausea 
+
+Uncommon
+
+Flatulence, dry mouth 
+
+Rare
+
+Glossitis, constipation, dysgeusia 
+
+Very Rare
+
+Ileus, small bowel angioedema 
+
+Not Known
+
+Pancreatitis*
+
+
+Hepato-biliary disorders
+
+
+Not Known
+
+Hepatitis, jaundice cholestatic
+
+
+Skin and subcutaneous tissue disorders
+
+
+
+Uncommon
+
+Angioedema, rash, pruritus, hyperhidrosis 
+
+Rare
+
+Erythema multiforme, pemphigus, urticaria 
+
+Very Rare
+
+Dermatitis psoriasis forms 
+
+Not Known
+
+Stevens Johnson Syndrome, toxic epidermal necrolysis, exfoliative dermatitis, alopecia, photosensitivity reaction.
+Skin disorders may be associated with pyrexia, muscle and joint pain (myalgia, arthralgia, arthritis), vascular inflammation (vasculitis), inflammation of serous tissues and certain changes in laboratory values (eosinophilia, leukocytosis and/or antinuclear antibody increased, red blood sedimentation rate increased). 
+
+
+Musculoskeletal, connective tissue and bone disorders
+
+
+Common
+
+Back pain, myalgia
+
+
+Renal and urinary disorders
+
+
+Uncommon
+
+Renal impairment, proteinuria 
+
+
+Reproductive system and breast disorders
+
+
+Uncommon
+
+Erectile dysfunction
+
+
+General disorders and administration site conditions
+
+
+Common
+
+Fatigue, asthenia, chest pain 
+
+Uncommon
+
+Generalised oedema, pyrexia, oedema peripheral 
+
+
+Investigations
+
+
+Common
+
+Blood creatinine increased, blood urea increased** 
+
+Not Known
+
+Haemoglobin decreased, haematocrit decreased, decreases in haematocrit and WCXC, hepatic enzyme increased, blood bilirubin increased. In patients with a congenital G-6-PDH deficiency, individual cases of haemolytic anaemia have been reported. 
+
+* Pancreatitis has been reported rarely in patients treated with ACE inhibitors; in some cases this has proved fatal.
+** Such increases are more likely to occur in patients receiving concomitant diuretic therapy than those on monotherapy with quinapril. These observed increases will often reverse on continued therapy.
+Vasculitis and gynecomastia have been reported with other ACE inhibitors and it cannot be excluded that these unwanted effects are class specific.
+Syndrome of Inappropriate Anti-diuretic Hormone (SIADH) and subsequent hyponatraemia has been observed in some patients treated with other ACE inhibitors (see section 4.4).
+
+Reporting of suspected adverse reactionsReporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the Yellow Card Scheme at www.mhra.gov.uk/yellowcard or search for MHRA Yellow Card in the Google Play or Apple App Store. 
+	4.9 Overdose
+The oral LD50 of quinapril in mice and rats ranges from 1440 to 4280 mg/kg. 
+No data are available with respect to overdosage in humans. The most likely clinical manifestation would be symptoms attributable to severe hypotension, which should normally be treated by intravenous volume expansion.
+Haemodialysis and peritoneal dialysis have little effect on the elimination of quinapril and quinaprilat.
+Treatment is symptomatic and supportive consistent with established medical care.
+5. Pharmacological properties
+5.1 Pharmacodynamic properties
+Pharmacotherapeutic group: Angiotensin-converting enzyme (ACE) inhibitor, plain
+ATC code: CO9A AO6
+Quinapril is rapidly de-esterified to quinaprilat (quinapril diacid, the principal metabolite) which is a potent ACE inhibitor.
+ACE is a peptidyl dipeptidase that catalyses the conversion of angiotensin I to the vasoconstrictor angiotensin II which is involved in vascular control and function through many different mechanisms, including stimulation of aldosterone secretion by the adrenal cortex. The mode of action of quinapril in humans and animals is to inhibit circulating and tissue ACE activity, thereby decreasing vasopressor activity and aldosterone secretion.
+In animal studies, the antihypertensive effect of quinapril outlasts its inhibitory effect on circulating ACE, whereas, tissue ACE inhibition more closely correlates with the duration of antihypertensive effects. Administration of 10 mg to 40 mg of quinapril to patients with mild to severe hypertension results in a reduction of both sitting and standing blood pressure with minimal effect on heart rate. Antihypertensive activity commences within 1 hour with peak effects usually achieved by 2 to 4 hours after dosing. Achievement of maximum blood pressure lowering effects may require 2 weeks of therapy in some patients. At the recommended doses, antihypertensive effects are maintained in most patients throughout the 24 hour dosing interval and continued during long term therapy.
+In a randomised clinical trial using target doses of 2.5 mg, 5 mg, 10 mg and 20 mg of quinapril, in 112 children and adolescents with hypertension or high normal blood pressure over 8 weeks (2 weeks double blind and 6 weeks extension) failed to reach its primary objective of reduction of diastolic blood pressure after 2 weeks. For systolic blood pressure (secondary objective of efficacy) at Week 2 only there was a statistically significant linear dose response across treatments with a significant difference between the quinapril 20 mg QD and placebo treatment groups.
+Long term effects of quinapril on growth, puberty and general development have not been studied.
+Two large randomised, controlled trials (ONTARGET (On-going Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker.
+ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage. VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy.
+These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers.
+ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
+ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
+5.2 Pharmacokinetic properties
+Peak plasma Accupro concentrations are observed within 1 hour of oral administration. The extent of absorption is approximately 60%, and is not influenced by food. Following absorption, Accupro is de-esterified to its major active metabolite, quinaprilat, and to minor inactive metabolites. Accupro has an apparent half-life of approximately 1 hour. Peak plasma quinaprilat concentrations are observed approximately 2 hours following an oral dose of quinapril. 
+Quinaprilat is eliminated primarily by renal excretion and has an effective accumulation half-life of 3 hours. In patients with renal insufficiency and creatinine clearance of ≤40 mL/min, peak and trough quinaprilat concentrations increase, time to peak concentration increases, apparent half-life increases, and time to steady state may be delayed. The elimination of quinaprilat is also reduced in elderly patients (>65 years) and correlates well with the impaired renal function which frequently occurs in the elderly. Quinaprilat concentrations are reduced in patients with alcoholic cirrhosis due to impaired de-esterification of Accupro. Studies in rats indicate that Accupro and its metabolites do not cross the blood-brain barrier.
+
+Lactation
+
+After a single oral dose of 20 mg of quinapril in six breast-feeding women, the M/P (milk to plasma ratio) for quinapril was 0.12. Quinapril was not detected in milk after 4 hours after the dose. Quinalaprilat milk levels were undetectable (<5 µg/L) at all time points. It is estimated that a breastfed infant would receive about 1.6% of the maternal weight-adjusted dosage of quinapril.
+The pharmacokinetics of quinapril has been studied in a single dose study (0.2 mg/kg) in 24 children aged 2.5 months to 6.8 years and a multiple dose study (0.016-0.468 mg/kg) in 38 children aged 5-16 years old, weighing 66-98 kg on average.
+As in adults, quinapril was rapidly converted to quinaprilat. Quinaprilat concentrations generally peaked 1 to 2 hours post dose and declined with a mean half-life of 2.3 hours. In infants and young children the exposure following a single 0.2 mg/kg dose is comparable to that observed in adults after a single 10 mg dose. In a multiple dose study in school age and adolescents, the AUC and Cmax values of quinaprilat were observed to increase linearly with increasing dose of quinapril on a mg/kg basis.
+5.3 Preclinical safety data
+The results of the preclinical tests do not add anything of further significance to the prescriber.
+6. Pharmaceutical particulars
+6.1 List of excipients
+Magnesium carbonate
+Lactose
+Gelatin 
+Crospovidone
+Magnesium stearate
+Candelilla wax
+Colourings: Opadry Y-5-9020 (containing hydroxypropyl methylcellulose, hydroxypropyl cellulose, Macrogol 400, red iron oxide (E172) and titanium dioxide (E171)).
+6.2 Incompatibilities
+Not applicable.
+6.3 Shelf life
+3 years.
+6.4 Special precautions for storage
+Do not store above 25°C. Store in the original package in order to protect from moisture.
+6.5 Nature and contents of container
+Tampertainers with desiccant containing 56 or 100 tablets.
+Polyamide/aluminium/PVC blister strip containing 7, 28, 56 or 100 tablets.
+Not all pack sizes may be marketed.
+6.6 Special precautions for disposal and other handling
+No special requirements for disposal.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+7. Marketing authorisation holder
+Pfizer Limited
+Ramsgate Road
+Sandwich
+Kent
+CT13 9NJ
+United Kingdom
+8. Marketing authorisation number(s)
+PL 00057/0514
+9. Date of first authorisation/renewal of the authorisation
+Date of first authorisation: 01 August 2003
+Date of latest renewal: 14 February 2006
+10. Date of revision of the text
+04/2018
+Ref: AC 25_1
+

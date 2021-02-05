@@ -1,0 +1,536 @@
+
+
+This information is intended for use by health professionals
+
+1. Name of the medicinal product
+Abstral 100 microgram sublingual tablets
+Abstral 200 microgram sublingual tablets
+Abstral 300 microgram sublingual tablets
+Abstral 400 microgram sublingual tablets
+Abstral 600 microgram sublingual tablets
+Abstral 800 microgram sublingual tablets
+2. Qualitative and quantitative composition
+Each sublingual tablet contains:
+100 micrograms fentanyl (as citrate)
+200 micrograms fentanyl (as citrate)
+300 micrograms fentanyl (as citrate)
+400 micrograms fentanyl (as citrate)
+600 micrograms fentanyl (as citrate)
+800 micrograms fentanyl (as citrate)
+For the full list of excipients, see section 6.1.
+3. Pharmaceutical form
+Sublingual tablet
+100 microgram sublingual tablet is a white round tablet
+200 microgram sublingual tablet is a white oval-shaped tablet
+300 microgram sublingual tablet is a white triangle-shaped tablet
+400 microgram sublingual tablet is a white diamond-shaped tablet
+600 microgram sublingual tablet is a white “D”-shaped tablet
+800 microgram sublingual tablet is a white capsule-shaped tablet
+4. Clinical particulars
+4.1 Therapeutic indications
+Management of breakthrough pain in adult patients using opioid therapy for chronic cancer pain. Breakthrough pain is a transient exacerbation of otherwise controlled chronic background pain.
+4.2 Posology and method of administration
+Abstral should only be administered to patients who are considered tolerant to their opioid therapy for persistent cancer pain. Patients can be considered opioid tolerant if they take at least 60 mg of oral morphine daily, at least 25 micrograms of transdermal fentanyl per hour, at least 30 mg of oxycodone daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week or longer.
+
+Method of administration:
+
+Abstral sublingual tablets should be administered directly under the tongue at the deepest part. Abstral sublingual tablets should not be swallowed, but allowed to completely dissolve in the sublingual cavity without chewing or sucking. Patients should be advised not to eat or drink anything until the sublingual tablet is completely dissolved. 
+In patients who have a dry mouth water may be used to moisten the buccal mucosa before taking Abstral.  
+
+Dose titration:
+
+The object of dose titration is to identify an optimal maintenance dose for ongoing treatment of breakthrough pain episodes. This optimal dose should provide adequate analgesia with an acceptable level of adverse reactions.
+The optimal dose of Abstral will be determined by upward titration, on an individual patient basis.    Several doses are available for use during the dose titration phase. The initial dose of Abstral used should be 100 micrograms, titrating upwards as necessary through the range of available dosage strengths.  
+Patients should be carefully monitored until an optimal dose is reached.   
+Switching from other fentanyl containing products to Abstral must not occur at a 1:1 ratio because of different absorption profiles. If patients are switched from another fentanyl containing product, a new dose titration with Abstral is required.
+The following dose regimen is recommended for titration, although in all cases the physician should take into account the clinical need of the patient, age and concomitant illness.
+All patients must start therapy with a single 100 microgram sublingual tablet. If adequate analgesia is not obtained within 15-30 minutes of administration of a single sublingual tablet, a supplemental (second) 100 microgram sublingual tablet may be administered. If adequate analgesia is not obtained within 15-30 minutes of the first dose an increase in dose to the next highest tablet strength should be considered for the next episode of breakthrough pain (Refer to figure below).  
+Dose escalation should continue in a stepwise manner until adequate analgesia with tolerable adverse reactions is achieved. The dose strength for the supplemental (second) sublingual tablet should be increased from 100 to 200 micrograms at doses of 400 micrograms and higher. This is illustrated in the schedule below. No more than two (2) doses should be administered for a single episode of breakthrough pain during this titration phase.
+
+
+Strength (micrograms) of first sublingual tablet per episode of breakthrough pain
+
+Strength (micrograms) of supplemental (second) sublingual tablet to be taken 15-30 minutes after first tablet, if required
+
+100
+
+100
+
+200
+
+100
+
+300
+
+100
+
+400
+
+200
+
+600
+
+200
+
+800
+
+-
+
+If adequate analgesia is achieved at the higher dose, but undesirable effects are considered unacceptable, an intermediate dose (using the 100 microgram sublingual tablet where appropriate) may be administered.
+During titration, patients can be instructed to use multiples of 100 microgram tablets and/or 200 microgram tablets for any single dose. No more than four (4) tablets should be used at any one time.
+The efficacy and safety of doses higher than 800 micrograms have not been evaluated in clinical studies in patients.
+In order to minimise the risk of opioid–related adverse reactions and to identify the appropriate dose, it is imperative that patients be monitored closely by health professionals during the titration process.
+During titration patients should wait at least 2 hours before treating another episode of breakthrough pain with Abstral. 
+
+Maintenance therapy:
+
+Once an appropriate dose has been established, which may be more than one tablet, patients should be maintained on this dose and should limit consumption to a maximum of four Abstral doses per day. 
+During the maintenance period patients should wait at least 2 hours before treating another episode of breakthrough pain with Abstral. 
+
+Dose re-adjustment:
+
+If the response (analgesia or adverse reactions) to the titrated Abstral dose markedly changes, an adjustment of dose may be necessary to ensure that an optimal dose is maintained.
+If more than four episodes of breakthrough pain are experienced per day over a period of more than four consecutive days, then the dose of the long acting opioid used for persistent pain should be re-evaluated. If the long acting opioid or dose of long acting opioid is changed the Abstral dose should be re-evaluated and re-titrated as necessary to ensure the patient is on an optimal dose.
+It is imperative that any dose re-titration of any analgesic is monitored by a health professional.
+In absence of adequate pain control, the possibility of hyperalgesia, tolerance and progression of underlying disease should be considered (see section 4.4).
+
+Discontinuation of therapy:
+
+Abstral should be discontinued immediately if the patient no longer experiences breakthrough pain episodes. The treatment for the persistent background pain should be kept as prescribed. 
+If discontinuation of all opioid therapy is required, the patient must be closely followed by the doctor in order to avoid the possibility of abrupt withdrawal effects.
+
+Use in children and adolescents:
+
+Abstral must not be used in patients less than 18 years of age due to a lack of data on safety and efficacy.
+
+Use in older people:
+
+Dose titration needs to be approached with particular care and patients observed carefully for signs of fentanyl toxicity (see section 4.4).  
+
+Use in patients with renal and hepatic impairment
+
+Patients with kidney or liver dysfunction should be carefully observed for signs of fentanyl toxicity during the Abstral titration phase (see section 4.4). 
+4.3 Contraindications
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+Patients without maintenance opioid therapy as there is an increased risk of respiratory depression.
+Severe respiratory depression or severe obstructive lung conditions.
+Treatment of acute pain other than breakthrough pain.
+4.4 Special warnings and precautions for use
+Patients and their carers must be instructed that Abstral contains an active substance in an amount that can be fatal to a child, and therefore to keep all tablets out of the reach and sight of children.
+Due to the potentially serious undesirable effects that can occur when taking an opioid therapy such as Abstral, patients and their carers should be made fully aware of the importance of taking Abstral correctly and what action to take should symptoms of overdose occur.
+Before Abstral therapy is initiated, it is important that the patient's long-acting opioid treatment used to control their persistent pain has been stabilised. 
+Upon repeated administration of opioids such as fentanyl, tolerance and physical and/or psychological dependence may develop. Iatrogenic addiction following therapeutic use of opioids is known to occur. 
+In common with all opioids, there is a risk of clinically significant respiratory depression associated with the use of Abstral. Particular caution should be exercised during dose titration with Abstral in patients with chronic obstructive pulmonary disease or other medical conditions predisposing them to respiratory depression (e.g. myasthenia gravis) because of the risk of further respiratory depression, which could lead to respiratory failure. 
+Abstral should only be administered with extreme caution in patients who may be particularly susceptible to the intracranial effects of hyperkapnia, such as those showing evidence of raised intracranial pressure, reduced consciousness, coma or brain tumours. In patients with head injuries, the clinical course may be masked by the use of opioids. In such a case, opioids should be used only if absolutely necessary.  
+As with other opioids, in case of insufficient pain control in response to an increased dose of fentanyl, the possibility of opioid-induced hyperalgesia should be considered. A fentanyl dose reduction or discontinuation of fentanyl treatment or treatment review may be indicated.
+
+Cardiac disease
+
+Fentanyl may produce bradycardia. Fentanyl should be used with caution in patients with previous or pre-existing bradyarrhythmias.
+Data from intravenous studies with fentanyl suggest that older patients may have reduced clearance, a prolonged half-life and they may be more sensitive to the active substance than younger patients. Older, cachectic, or debilitated patients should be observed carefully for signs of fentanyl toxicity and the dose reduced if necessary.
+Abstral should be administered with caution to patients with liver or kidney dysfunction, especially during the titration phase. The use of Abstral in patients with hepatic or renal impairment may increase the bioavailability of fentanyl and decrease its systemic clearance, which could lead to accumulation and increased and prolonged opioid effects.  
+Care should be taken in treating patients with hypovolaemia and hypotension.
+Abstral has not been studied in patients with mouth wounds or mucositis. There may be a risk of increased systemic drug exposure in such patients and therefore extra caution is recommended during dose titration.
+There should be no noticeable effects on cessation of treatment with Abstral, but possible symptoms of withdrawal are anxiety, tremor, sweating, paleness, nausea and vomiting. 
+
+Serotonin Syndrome
+
+
+			• Caution is advised when Abstral is co-administered with drugs that affect the serotoninergic neurotransmitter systems.
+The development of a potentially life-threatening serotonin syndrome may occur with the concomitant use of serotonergic drugs such as Selective Serotonin Re-uptake Inhibitors (SSRIs) and Serotonin Norepinephrine Re-uptake Inhibitors (SNRIs), and with drugs which impair metabolism of serotonin (including Monoamine Oxidase Inhibitors [MAOIs]). This may occur within the recommended dose.
+Serotonin syndrome may include mental-status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular abnormalities (e.g., hyperreflexia, incoordination, rigidity), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhoea).
+If serotonin syndrome is suspected, treatment with Abstral should be discontinued.
+
+Abstral contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+4.5 Interaction with other medicinal products and other forms of interaction
+Fentanyl is metabolised by CYP3A4.  Active substances that inhibit CYP3A4 activity such as macrolide antibiotics (e.g. erythromycin), azole antifungal agents (e.g. ketoconazole, itraconazole) or certain protease inhibitors (e.g. ritonavir) may increase the bioavailability of fentanyl by decreasing its systemic clearance, potentially enhancing or prolonging opioid effects. Grapefruit juice is also known to inhibit CYP3A4. Coadministration with agents that induce CYP3A4 activity such as antimycobacterials (e.g. rifampin, rifabutin), anticonvulsants (e.g. carbamazepine, phenytoin, and phenobarbital) herbal products (e.g. St John's wort, Hypericum perforatum) may reduce the efficacy of fentanyl. CYP3A4 inducers exert their effect in a time-dependent manner, and may take at least 2 weeks to reach maximal effect after introduction. Conversely, on discontinuation, CYP3A4 induction may take at least 2 weeks to decline. Patients receiving fentanyl who stop therapy with, or decrease the dose of CYP3A4 inducers may be at risk of increased fentanyl activity or toxicity. Fentanyl should therefore be given to patients with caution if administered concomitantly with CYP3A4 inhibitors and/or inducers.
+Concomitant use of other CNS depressants, such as other morphine derivatives (analgesics and antitussives), general anaesthetics, skeletal muscle relaxants, sedative antidepressants, sedative H1 antihistamines, barbiturates, anxiolytics (ie benzodiazepines), hypnotics, antipsychotics, clonidine and related substances may produce increased CNS depressant effects. Respiratory depression, hypotension and profound sedation may occur.   
+Alcohol potentiates the sedative effects of morphine-based analgesics, therefore concomitant administration of alcoholic beverages or medicinal products containing alcohol with Abstral is not recommended.
+Abstral is not recommended for use in patients who have received monoamine oxidase (MAO) inhibitors within 14 days because severe and unpredictable potentiation by MAO inhibitors has been reported with opioid analgesics.
+The concomitant use of partial opioid agonists/antagonists (e.g. buprenorphine, nalbuphine, pentazocine) is not recommended. They have high affinity to opioid receptors with relatively low intrinsic activity and therefore partially antagonise the analgesic effect of fentanyl and may induce withdrawal symptoms in opioid dependent patients. 
+
+Serotoninergic Drugs
+
+Co-administration of fentanyl with a serotoninergic agent, such as a Selective Serotonin Re-uptake Inhibitor (SSRI) or a Serotonin Norepinephrine Re-uptake Inhibitor (SNRI) or a Monoamine Oxidase Inhibitor (MAOI), may increase the risk of serotonin syndrome, a potentially life-threatening condition.
+4.6 Fertility, pregnancy and lactation
+The safety of fentanyl in pregnancy has not been established. Studies in animals have shown reproductive toxicity, with impaired fertility in rats (see section 5.3). The potential risk for humans is unknown. Fentanyl should only be used during pregnancy when clearly necessary.
+Long-term treatment during pregnancy may cause withdrawal symptoms in the new-born infant. 
+Fentanyl should not be used during labour and delivery (including caesarean section) since fentanyl crosses the placenta and may cause respiratory depression in the foetus or in the new-born infant.
+
+Breast-feeding
+
+Fentanyl passes into breast milk and may cause sedation and respiratory depression in the breast-fed child. Fentanyl should not be used by breastfeeding women and breastfeeding should not be restarted until at least 5 days after the last administration of fentanyl.
+4.7 Effects on ability to drive and use machines
+No studies on the effects on the ability to drive and use machines have been performed with Abstral.
+However, opioid analgesics are known to impair the mental or physical ability to perform potentially hazardous tasks such as driving or operating machinery. Patients should be advised not to drive or operate machinery if they become dizzy or drowsy or experience blurred or double vision while taking Abstral. 
+This medicine can impair cognitive function and can affect a patient's ability to drive safely. This class of medicine is in the list of drugs included in regulations under 5a of the Road Traffic Act 1988. When prescribing this medicine, patients should be told:
+
+			• The medicine is likely to affect your ability to drive
+
+			• Do not drive until you know how the medicine affects you
+
+			• It is an offence to drive while under the influence of this medicine
+
+			• However, you would not be committing an offence (called 'statutory defence') if:
+o The medicine has been prescribed to treat a medical or dental problem and
+o You have taken it according to the instructions given by the prescriber and in the information provided with the medicine and
+o It was not affecting your ability to drive safely
+4.8 Undesirable effects
+Undesirable effects typical of opioids are to be expected with Abstral; they tend to decrease in intensity with continued use.  The most serious potential adverse reactions associated with opioid use are respiratory depression (which could lead to respiratory arrest), hypotension and shock.  
+The clinical trials of Abstral were designed to evaluate safety and efficacy in treating patients with breakthrough cancer pain; all patients were taking concomitant opioids, such as sustained-release morphine, sustained-release oxycodone or transdermal fentanyl, for their persistent pain. Therefore, it is not possible to definitively separate the effects of Abstral alone.
+The most frequently observed adverse reactions with Abstral include typical opioid adverse reactions, such as nausea, constipation, somnolence and headache.
+
+Tabulated Summary of Adverse Reactions with Abstral and/or other fentanyl-containing compounds:
+
+The following adverse reactions have been reported with Abstral and/or other fentanyl-containing compounds during clinical studies and from post-marketing experience. They are listed below by system organ class and frequency (very common ≥ 1/10; common ≥ 1/100 to < 1/10; uncommon ≥1/1,000 to <1/100; not known (cannot be estimated from available data)). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. 
+
+
+System Organ Class
+
+
+
+Adverse Reaction by Frequency
+
+
+
+
+
+Very common
+
+
+
+							≥ 1/10
+
+
+
+Common
+
+
+
+							≥ 1/100 to < 1/10
+
+
+
+Uncommon
+
+
+
+							≥1/1,000 to <1/100
+
+
+
+Not known (cannot be estimated from available data)
+
+
+
+Immune system disorders
+
+
+
+
+
+
+Hypersensitivity 
+
+
+
+
+Metabolism and nutrition disorders
+
+
+
+
+
+
+Anorexia
+Decreased appetite
+
+
+
+
+Psychiatric disorders
+
+
+
+
+
+
+Depression
+Paranoia 
+Confusional state
+Disorientation
+Mental status changes
+Anxiety
+Euphoric mood
+Dysphoria
+Emotional lability 
+Disturbance in attention
+Insomnia
+
+Hallucination
+Drug dependence (addiction)
+Drug abuse
+Delirium
+
+
+Nervous system disorders
+
+
+
+
+Dizziness
+Headache
+Somnolence
+
+
+
+Amnesia
+Parosmia 
+Dysgeusia
+Tremor
+Lethargy
+Hypoaesthesia
+Sleep disorder
+
+Convulsion
+Depressed level of consciousness
+Loss of consciousness
+
+
+Eye disorders
+
+
+
+
+
+
+Vision blurred
+
+
+
+
+Cardiac disorders
+
+
+
+
+
+
+Tachycardia 
+Bradycardia
+
+
+
+
+Vascular disorders
+
+
+
+
+
+
+Hypotension
+
+
+
+
+Respiratory, thoracic and mediastinal disorders
+
+
+
+
+Dyspnoea
+
+
+Oropharyngeal pain
+Throat tightness
+
+Respiratory depression
+
+
+Gastrointestinal disorders
+
+
+Nausea
+
+
+Stomatitis
+Vomiting
+Constipation
+Dry mouth
+
+
+Mouth ulceration
+Gingival ulceration
+Lip ulceration
+Impaired gastric emptying
+Abdominal pain
+Dyspepsia
+Stomach discomfort
+Tongue disorder 
+Aphthous stomatitis
+
+Swollen tongue
+Diarrhoea
+
+
+
+Skin and subcutaneous tissue disorders
+
+
+
+
+Hyperhidrosis
+
+
+Skin lesion 
+Rash
+Pruritus allergic
+Pruritus
+Night sweats
+Increased tendency to bruise
+
+Urticaria
+
+
+Musculoskeletal and connective tissue disorders
+
+
+
+
+
+
+Arthralgia
+Musculoskeletal stiffness
+Joint stiffness
+
+
+
+
+Reproductive system and breast disorders
+
+
+
+
+
+
+Erectile dysfunction
+
+
+
+
+General disorders and administration site conditions
+
+
+
+
+Fatigue
+
+
+*Drug withdrawal syndrome 
+Asthenia
+Malaise
+
+Flushing and hot flush
+Peripheral oedema
+Pyrexia
+Neonatal withdrawal syndrome
+
+
+
+Injury, poisoning and procedural complications
+
+
+
+
+
+
+Accidental overdose
+
+Fall
+
+* opioid withdrawal symptoms such as nausea, vomiting, diarrhoea, anxiety, chills, tremor, and sweating have been observed with transmucosal fentanyl
+
+Reporting of suspected adverse reactions 
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via Yellow Card Scheme: www.mhra.gov.uk/yellowcard or search for MHRA Yellow Card in the Google Play or Apple App Store
+4.9 Overdose
+The symptoms of fentanyl overdose are an extension of its pharmacological actions, the most serious effect being respiratory depression, which may lead to respiratory arrest. Coma is also known to occur.
+Management of opioid overdose in the immediate term includes removal of any remaining Abstral sublingual tablets from the mouth, physical and verbal stimulation of the patient and an assessment of the level of consciousness. A patent airway should be established and maintained. If necessary, an oropharyngeal airway or endotracheal tube should be inserted, oxygen administered and mechanical ventilation initiated, as appropriate. Adequate body temperature and parenteral fluid intake should be maintained.
+For the treatment of accidental overdose in opioid-naïve individuals, naloxone or other opioid antagonists should be used as clinically indicated and in accordance with their Summary of Product Characteristics. Repeated administration of the opioid antagonist may be necessary if the duration of respiratory depression is prolonged. 
+Care should be taken when using naloxone or other opioid antagonists to treat overdose in opioid-maintained patients, due to the risk of precipitating an acute withdrawal syndrome.
+If severe or persistent hypotension occurs, hypovolaemia should be considered, and the condition should be managed with appropriate parenteral fluid therapy.
+Muscle rigidity interfering with respiration has been reported with fentanyl and other opioids. In this situation, endotracheal intubation, assisted ventilation and administration of opioid antagonists as well as muscle relaxants may be requested. 
+5. Pharmacological properties
+5.1 Pharmacodynamic properties
+Pharmacotherapeutic group: Analgesics; Opioids; Phenylpiperidine derivatives. 
+ATC code: N02AB03
+Fentanyl is a potent µ-opioid analgesic with rapid onset of analgesia and short duration of action. Fentanyl is approximately 100-fold more potent than morphine as an analgesic. Secondary effects of fentanyl on central nervous system (CNS), respiratory and gastro-intestinal function are typical of opioid analgesics and are considered to be class effects. These can include respiratory depression, bradycardia, hypothermia, constipation, miosis, physical dependence and euphoria.
+Opioids may influence the hypothalamic-pituitary-adrenal or –gonadal axes. Some changes that can be seen include an increase in serum prolactin, and decreases in plasma cortisol and testosterone. Clinical signs and symptoms may be manifest from these hormonal changes.
+The analgesic effects of fentanyl are related to the blood level of the active substance; in opioid-naïve patients, minimum effective analgesic serum concentrations of fentanyl range from 0.3-1.2 ng/ml, while blood levels of 10-20 ng/ml produce surgical anaesthesia and profound respiratory depression. 
+In patients with chronic cancer pain on stable maintenance doses of opioids, statistically significant improvement in pain intensity difference was seen with Abstral versus placebo from 10 minutes after administration onwards (see figure 1 below) , with a significantly lower need for rescue analgesic therapy. 
+
+
+Figure 1 Mean Pain Intensity Difference from baseline (± SE) for Abstral Compared with Placebo (measured by a 0-10 Lickert scale)
+
+
+
+The safety and efficacy of Abstral have been evaluated in patients taking the drug at the onset of the breakthrough pain episode. Preemptive use of Abstral for predictable pain episodes was not investigated in the clinical trials.
+Fentanyl, in common with all µ-opioid receptor agonists, produces dose dependent respiratory depression. This risk is higher in opioid-naïve subjects than in patients experiencing severe pain or receiving chronic opioid therapy. Long-term treatment with opioids typically leads to development of tolerance to their secondary effects. 
+ 
+While opioids generally increase the tone of urinary tract smooth muscle, the net effect tends to be variable, in some cases producing urinary urgency, in others, difficulty in urination.
+Opioids increase the tone and decrease the propulsive contractions of the smooth muscle of the gastrointestinal tract leading to a prolongation in gastrointestinal transit time, which may be responsible for the constipating effect of fentanyl.
+5.2 Pharmacokinetic properties
+Fentanyl is a highly lipophilic drug absorbed very rapidly through the oral mucosa and more slowly through the gastrointestinal tract. Orally administered fentanyl undergoes pronounced hepatic and intestinal first pass effects. 
+Abstral is a quick dissolving sublingual tablet formulation. Rapid absorption of fentanyl occurs over about 30 minutes following administration of Abstral. The absolute bioavailability of Abstral has been calculated to be 54 %. Mean maximal plasma concentrations of fentanyl range from 0.2 to 1.3 ng/ml (after administration of 100 to 800 µg Abstral) and are reached within 22.5 to 240 minutes.
+About 80-85% of fentanyl is bound by plasma proteins, mainly α1-glycoprotein and to a lesser extent albumin and lipoprotein. The volume of distribution of fentanyl at steady state is about 3-6 l/kg.
+Fentanyl is metabolised primarily via CYP3A4 to a number of pharmacologically inactive metabolites, including norfentanyl. Within 72 hours of intravenous fentanyl administration around 75% of the dose is excreted into the urine, mostly as metabolites, with less than 10% as unchanged drug. About 9% of the dose is recovered in the faeces, primarily as metabolites. Total plasma clearance of fentanyl is about 0.5 l/h/kg.  
+After Abstral administration, the main elimination half-life of fentanyl is about 7 hours (range 3-12.5 hours) and the terminal half-life is about 20 hours (range 11.5-25 hours).
+The pharmacokinetics of Abstral have been shown to be dose proportional over the dose range of 100 to 800 µg. Pharmacokinetic studies have shown that multiple tablets are bioequivalent to single tablets of the equivalent dose.
+
+Renal/hepatic impairment
+
+Impaired hepatic or renal function could cause increased serum concentrations. Older, cachectic or generally impaired patients may have a lower fentanyl clearance, which could cause a longer terminal half-life for the compound (see sections 4.2 and 4.4).
+5.3 Preclinical safety data
+Safety pharmacology and repeated dose toxicity data reveal no special hazard for humans that is not already covered by other sections of this SPC. Animal studies have shown reduced fertility and increased mortality in rat foetuses. Teratogenic effects have, however, not been demonstrated.
+Mutagenicity testing in bacteria and in rodents yielded negative results. Like other opioids fentanyl showed mutagenic effects in vitro in mammalian cells. A mutagenic risk with therapeutic use seems unlikely since effects were induced only at very high concentrations.
+Carcinogenicity studies (26-week dermal alternative bioassay in Tg.AC transgenic mice; two-year subcutaneous carcinogenicity study in rats) with fentanyl did not reveal any findings indicative of oncogenic potential. Evaluation of brain slides from the carcinogenicity study in rats revealed brain lesions in animals administered high doses of fentanyl citrate. The relevance of these findings to humans is unknown.
+6. Pharmaceutical particulars
+6.1 List of excipients
+Mannitol (E421)
+Silicified microcrystalline cellulose
+Croscarmellose sodium 
+Magnesium stearate 
+6.2 Incompatibilities
+Not applicable.
+6.3 Shelf life
+2 years
+6.4 Special precautions for storage
+Do not store above 25°C.
+Store in the original blister package in order to protect from moisture.
+6.5 Nature and contents of container
+Abstral sublingual tablets are packaged in child resistant blisters of OPA/Aluminium/PVC pockets with paper/polyester/Aluminium lidding contained in a cardboard outer carton. The packaging is colour-coded for each Abstral sublingual tablet strength. 
+Pack size: Packs of 10 or 30 sublingual tablets. Not all pack sizes may be marketed.
+6.6 Special precautions for disposal and other handling
+Waste material should be disposed of safely. Patients/carers should be encouraged to return any unused product to the Pharmacy, where it should be disposed of in accordance with national and local requirements.
+7. Marketing authorisation holder
+Kyowa Kirin Ltd
+Galabank Business Park
+Galashiels 
+TD1 1QH
+UK
+8. Marketing authorisation number(s)
+Abstral 100 microgram sublingual tablets: PL 16508/0030
+Abstral 200 microgram sublingual tablets: PL 16508/0031
+Abstral 300 microgram sublingual tablets: PL 16508/0032
+Abstral 400 microgram sublingual tablets: PL 16508/0033
+Abstral 600 microgram sublingual tablets: PL 16508/0034
+Abstral 800 microgram sublingual tablets: PL 16508/0035
+9. Date of first authorisation/renewal of the authorisation
+Date of first authorisation: 19/09/2008
+Date of latest renewal: 28/02/2013
+10. Date of revision of the text
+11 January 2021
+

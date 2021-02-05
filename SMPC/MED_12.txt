@@ -1,0 +1,437 @@
+
+
+This information is intended for use by health professionals
+
+1. Name of the medicinal product
+ Abelcet Lipid Complex 5 mg/mL Concentrate for dispersion for infusion
+2. Qualitative and quantitative composition
+Amphotericin B Lipid Complex.  Each vial contains 5 mg Amphotericin B per mL.   
+Excipient with known effect:
+Contains 3.59 mg/mL of sodium (0.156 mmol); this represents 71.8 mg of sodium (3.12 mmol) per 20 mL vial.
+For the  full list of excipients, see section 6.1.
+3. Pharmaceutical form
+ Concentrate for dispersion for infusion
+4. Clinical particulars
+4.1 Therapeutic indications
+Abelcet Lipid Complex is indicated for the treatment of severe invasive candidiasis.
+Abelcet Lipid Complex is also indicated as second line therapy for the treatment of severe systemic fungal infections in patients who have not responded to conventional amphotericin B or other systemic antifungal agents, in those who have renal impairment or other contra-indications to conventional amphotericin B, or in patients who have developed amphotericin B nephrotoxicity.  Abelcet Lipid Complex treatment is indicated as second line treatment for invasive aspergillosis, cryptococcal meningitis and disseminated cryptococcosis in HIV patients, fusariosis, coccidiomycosis, zygomycosis and blastomycosis.
+4.2 Posology and method of administration
+ Non-equivalence of amphotericin products
+Different amphotericin products (sodium deoxycholate, liposomal, lipid complex) are not equivalent in terms of pharmacodynamics, pharmacokinetics and dosing and so the products should not be used interchangeably without accounting for these differences. Both the trade name, common name and dose should be verified pre-administration.
+There is a risk of under-dose if Abelcet Lipid Complex is administered at a dose recommended for amphotericin B deoxycholate.
+ Abelcet Lipid Complex is a sterile, pyrogen-free suspension which must be diluted for intravenous infusion only.
+
+Posology
+
+ Abelcet Lipid Complex should be administered by intravenous infusion at 5 mg/kg at a rate of 2.5 mg/kg/hr.
+
+Elderly
+
+Systemic fungal infections in elderly patients have been treated successfully with Abelcet Lipid Complex at doses comparable to the recommended dose on a bodyweight basis.
+
+Patients with diabetes insipidus
+
+ Abelcet Lipid Complex may be administered to patients with diabetes insipidus.
+
+ Patients with neutropenia
+
+Abelcet Lipid Complex has been used successfully to treat systemic fungal infections in patients who are severely neutropenic as a consequence of haematological malignancy or the use of cytotoxic or immunosuppressive drugs.
+
+Renal or hepatic impairment
+
+Systemic fungal infections in patients with renal or liver disease have been treated successfully with Abelcet Lipid Complex at doses comparable to the recommended dose on a body weight basis (see section 4.4).
+
+Paediatric population
+
+
+Use in children and adolescents
+
+Systemic fungal infections in children (ranging from 1 month to 16 years of age) have been treated successfully with Abelcet Lipid Complex  at doses comparable to the recommended adult dose on a bodyweight basis.
+There are no sufficient data on efficacy and safety available in children less that one month.
+No data on the efficacy and safety of Abelcet Lipid Complex in preterm newborn infants suffering from fungal infections due to aspergillus species are available.
+
+Method of administration
+
+When commencing treatment with Abelcet Lipid Complex for the first time it is recommended to administer a test dose immediately prior to the first infusion.  The first infusion should be prepared according to the instructions (see section 6.6), then, over a period of approximately 15 minutes, 1 mg of the infusion should be administered to the patient.  After this amount has been administered the infusion should be stopped and the patient observed carefully for 30 minutes.  If the patient shows no signs of hypersensitivity the infusion may be continued.  As for use with all amphotericin B products, facilities for cardiopulmonary resuscitation should be readily at hand when administering Abelcet Lipid Complex for the first time, due to the possible occurrence of anaphylactoid reactions.  
+For severe systemic infections treatment is generally recommended for at least 14 days.  
+Abelcet Lipid Complex has been administered for as long as 28 months, and cumulative doses have been as high as 73.6 g without significant toxicity.
+An in-line filter may be used for intravenous infusion of Abelcet Lipid Complex.  The mean pore diameter of the filter should be no less than 15 microns.
+ For instructions on preparation of the suspension for infusion before administration, see section 6.6.
+4.3 Contraindications
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1,  unless in the opinion of the physician the advantages of using Abelcet Lipid Complex outweigh the risks of hypersensitivity.
+4.4 Special warnings and precautions for use
+
+Infusion hypersensitivity reactions
+
+Infusion related reactions (such as chills and pyrexia) recorded following the administration of Abelcet Lipid Complex have generally been mild or moderate, and have mainly be recorded during the first 2 days of administration  (see section 4.8).
+Premedication (e.g. paracetamol) may be administered for the prevention of infusion related adverse reactions.  
+
+Systemic fungal infections
+
+Abelcet Lipid Complex should not be used for treating common or superficial, clinically inapparent fungal infections that are detectable only by positive skin or serologic tests.
+
+Renal impairment
+
+Since Abelcet Lipid Complex is a potentially nephrotoxic drug, monitoring of renal function should be performed before initiating treatment in patients with pre-existing renal disease or who have already experienced renal failure, and at least once weekly during therapy.  Abelcet Lipid Complex can be administered to patients during renal dialysis or haemofiltration. Serum potassium and magnesium levels should be monitored regularly.
+
+Hepatic impairment
+
+Patients with concurrent hepatic impairment due to infection, graft-versus-host disease, other liver disease or administration of hepatotoxic drugs have been successfully treated with Abelcet Lipid Complex.  In cases where serum bilirubin, alkaline phosphatase or serum transaminases increased, factors other than Abelcet Lipid Complex were present and possibly accounted for the abnormalities.  These factors included infection, hyperalimentation, concomitant hepatotoxic drugs and graft-versus-host disease.
+
+Sodium
+
+This medicinal product contains 71.8 mg sodium per 20 mL vial, equivalent to 3.59 % of the WHO recommended maximum daily intake of 2 g sodium for an adult. 
+4.5 Interaction with other medicinal products and other forms of interaction
+
+Nephrotoxic drugs
+
+Abelcet Lipid Complex is a potentially nephrotoxic drug, and particularly close monitoring of renal function is required in patients receiving nephrotoxic drugs concomitantly.
+
+Zidovudine
+
+In dogs, exacerbated myelotoxicity and nephrotoxicity were observed when Abelcet Lipid Complex was administered concomitantly with zidovudine.  If concomitant treatment with zidovudine is required, renal and haematologic function should be closely monitored.
+
+Cyclosporin
+
+ Interaction data with amphotericin B containing products indicate that patients receiving amphotericin B concomitantly with high dose cyclosporine experience an increase in serum creatinine caused by simultaneous administration of these two compounds. However, Abelcet Lipid Complex has been shown to be less nephrotoxic than conventional amphotericin B.
+
+Other drugs
+
+The interaction of Abelcet Lipid Complex with other drugs has not been studied to date.  Conventional amphotericin B has been reported to interact with the following drugs, and caution should be exercised during concomitant use with Abelcet Lipid Complex: antineoplastic agents, corticosteroids and corticotrophin (ACTH), digitalis glycosides, flucytosine, and skeletal muscle relaxants.
+
+Leukocyte transfusions
+
+Acute pulmonary toxicity has been reported in patients receiving intravenous conventional amphotericin B and leukocyte transfusions. It is not recommended to administer Abelcet Lipid Complex with leukocyte transfusions. 
+4.6 Fertility, pregnancy and lactation
+
+Pregnancy
+
+Conventional amphotericin B has been used successfully to treat systemic fungal infections in pregnant women with no obvious effects on the foetus, but only a small number of cases have been reported.  Reproductive toxicity studies of Abelcet Lipid Complex in rats and rabbits showed no evidence of embryotoxicity, foetotoxicity or teratogenicity.  However, safety for use in pregnant women has not been established for Abelcet Lipid Complex.  Abelcet Lipid Complex should only be administered to pregnant women when the likely benefit exceeds the risk to the mother and foetus.
+
+Breast-feeding
+
+It is unknown whether Abelcet Lipid Complex passes into breast milk. A decision on whether to continue/discontinue nursing or whether to continue/discontinue Abelcet Lipid Complex should be made taking into account the benefit of breast-feeding to the child and the benefit of Abelcet Lipid Complex to the woman.
+4.7 Effects on ability to drive and use machines
+The effects of Abelcet Lipid Complex on the ability to drive and /or use machines have not been investigated.  Some of the undesirable effects of Abelcet Lipid Complex presented below may impact the ability to drive and use machines.  However, the clinical condition of patients who require Abelcet Lipid Complex generally precludes driving or operating machinery.
+4.8 Undesirable effects
+The most common clinical adverse reactions in randomised controlled and open label clinical trials have been chills (16%), increased creatinine (13%), pyrexia (10%), hypokalaemia (9%), nausea (7%) and vomiting (6%).
+The incidence is based on analysis from pooled clinical trials of 709 Abelcet Lipid Complex treated patients.
+There were 556 cases in emergency use studies (open-label, non-comparative studies) and 153 in a randomised controlled trial in invasive candidiasis (38% ≥ 65 years).  In the emergency use studies, patients had either shown intolerance to conventional amphotericin B treatment, had renal impairment as a result of previous conventional amphotericin B treatment, had pre-existing renal disease or were treatment failures.
+The following adverse reactions have been reported with Abelcet Lipid Complex during clinical trials and/or post-marketing use.
+Adverse reactions are listed below as MedDRA preferred term by system organ class and frequency.  Frequencies are defined as: very common (>1/10), common (≥1/100 and <1/10), uncommon (≥1/1000 and <1/100), not known (cannot be estimated from the available data).
+
+
+System organ class
+
+
+
+Very common
+
+
+
+Common
+
+
+
+Uncommon
+
+
+
+Not known
+
+
+Blood and lymphatic system disorders
+
+
+
+Thrombocytopenia
+
+
+
+
+
+Immune system disorders
+
+
+
+
+
+Anaphylactic response
+
+
+
+Metabolism and nutrition disorders
+
+
+
+Hyperbilirubinaemia, Hypokalaemia, Electrolyte imbalance including blood potassium increased, blood magnesium decreased
+
+
+
+
+
+Nervous system disorders
+
+
+
+Headache, Tremor
+
+Convulsion, Neuropathy
+
+Encephalopathy
+
+Cardiac disorders
+
+
+
+Tachycardia, Cardiac Arrhythmias
+
+Cardiac arrest
+
+
+
+Vascular disorders
+
+
+
+Hypertension, Hypotension
+
+Shock
+
+
+
+Respiratory, thoracic and mediastinal disorders
+
+
+
+Dyspnoea, Asthma
+
+Respiratory failure
+
+Bronchospasm
+
+Gastrointestinal disorders
+
+
+
+Nausea, Vomiting, Abdominal pain
+
+
+
+
+
+Hepatobiliary disorders
+
+
+
+Liver function tests abnormal
+
+
+
+
+
+Skin and subcutaneous tissue disorders
+
+
+
+Rash
+
+Pruritus
+
+Dermatitis exfoliative
+
+Musculoskeletal and connective tissue disorders
+
+
+
+
+
+Myalgia
+
+
+
+Renal and urinary disorders
+
+
+
+Renal impairment including renal failure
+
+
+
+Hyposthenuria, Renal tubular acidosis, Nephrogenic diabetes insipidus
+
+General disorders and administration site conditions
+
+Chills, Pyrexia
+
+
+
+Injection site reaction
+
+
+
+Investigations
+
+Blood creatinine increased
+
+Blood alkaline phosphatase increased, blood urea increased
+
+
+
+
+
+The undesirable effects listed with frequency “not known” (encephalopathy, bronchospasm, dermatitis exfoliative, hyposthenuria, renal tubular acidosis, nephrogenic diabetes insipidus) have been observed during post-marketing use.
+Adverse reactions that have been reported to occur with conventional amphotericin B may occur with Abelcet Lipid Complex.  In general, the physician should monitor the patient for any type of adverse event associated with conventional amphotericin B.
+Infusion hypersensitivity reactions have been associated with abdominal pain, nausea, vomiting, myalgia, pruritus, maculopapular rash, fever, hypotension, shock, bronchospasm, respiratory failure, chest pain and in certain patients a decrease in oxygen saturation and cyanosis  (see section 4.4).
+Patients in whom significant renal toxicity was observed following conventional amphotericin B frequently did not experience similar effects when Abelcet Lipid Complex was substituted. 
+Declines in renal function, shown by increased serum creatinine and hypokalaemia, have not typically required discontinuation of treatment.
+Renal tubular acidosis has been reported including hyposthenuria and electrolyte imbalance such as increased potassium and decreased magnesium.
+Abnormal liver function tests have been reported with Abelcet Lipid Complex and other amphotericin B products.  Although other factors such as infection, hyperalimentation, concomitant hepatotoxic drugs and graft-versus-host disease may be contributory, a causal relationship with Abelcet Lipid Complex cannot be excluded.  Patients with abnormal liver function tests should be carefully monitored and cessation of treatment considered if liver function deteriorates.
+
+Paediatric population
+
+Undesirable effects observed in children and adolescents are similar to those observed in adults
+
+Elderly population
+
+In elderly patients, the adverse reaction profile was similar to that seen in adults less than 65 years.  Important exceptions were increases in serum creatinine and dyspnoea which were reported in elderly patients for both Abelcet Lipid Complex and conventional amphotericin B with a greater frequency in this age group.
+
+Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the Yellow Card Scheme at: www.mhra.gov.uk/yellowcard or search for MHRA Yellow Card in the Google Play or Apple App Store.
+4.9 Overdose
+
+Symptoms
+
+Dosages up to 10 mg/kg/day have been administered in clinical studies with no apparent dose-dependent toxicity.
+Instances of overdose reported with Abelcet Lipid Complex have been consistent with those reported in clinical trials with treatment at standard doses (see section 4.8).  In addition, seizures and bradycardia were experienced by one paediatric patient who received a dose of 25 mg/kg.
+
+Management
+
+In case of overdose, the status of the patient (in particular the cardio-pulmonary, renal and hepatic function as well as the blood count and serum electrolytes) should be monitored and supportive measures initiated.  No specific antidote to amphotericin B is known.
+5. Pharmacological properties
+Abelcet Lipid Complex consists of the antifungal agent, amphotericin B, complexed to two phospholipids.  Amphotericin B is a macrocyclic, polyene, broad-spectrum antifungal antibiotic produced by Streptomyces nodosus.  The lipophilic moiety of amphotericin B allows molecules of the drug to be complexed in a ribbon-like structure with the phospholipids.
+5.1 Pharmacodynamic properties
+
+ATC Code
+
+J02A A01
+
+Mechanism of action
+
+Amphotericin B, the active antifungal agent in Abelcet Lipid Complex, may be fungistatic or fungicidal, depending on its concentration and on fungal susceptibility.  The drug probably acts by binding to ergosterol in the fungal cell membrane causing subsequent membrane damage.  As a result, cell contents leak from the fungal cell, and, ultimately, cell death occurs.  Binding of the drug to sterols in human cell membranes may result in toxicity, although amphotericin B has greater affinity for fungal ergosterol than for the cholesterol of human cells.
+
+Microbiological activity
+
+ EUCAST breakpoints for amphotericin B lipid complex have not yet been established.
+Amphotericin B is active against many fungal pathogens in vitro, including Candida spp., Cryptococcus neoformans, Aspergillus spp., Mucor spp., Sporothrix schenckii, Blastomyces dermatitidis, Coccidioides immitis and Histoplasma capsulatum.  Most strains are inhibited by amphotericin B concentrations of 0.03-1.0 μg/ml.  Amphotericin B has little or no activity against bacteria or viruses.  The activity of Abelcet Lipid Complex against fungal pathogens in vitro is comparable to that of amphotericin B.  However, activity of Abelcet Lipid Complex in vitro may not predict activity in the infected host.
+5.2 Pharmacokinetic properties
+Amphotericin B is complexed to phospholipids in Abelcet Lipid Complex.  The pharmacokinetic properties of Abelcet Lipid Complex and conventional amphotericin B are different.  Pharmacokinetic studies in animals showed that, after administration of Abelcet Lipid Complex, amphotericin B levels were highest in the liver, spleen and lung.  Amphotericin B in Abelcet Lipid Complex was rapidly distributed to tissues.  The ratio of drug concentrations in tissues to those in blood increased disproportionately with increasing dose, suggesting that elimination of the drug from the tissues was delayed.  Peak blood levels of amphotericin B were lower after administration of Abelcet Lipid Complex than after administration of equivalent amounts of conventional drug.  Administration of conventional amphotericin B resulted in much lower tissue levels than did dosing with Abelcet Lipid Complex.  However, in dogs, conventional amphotericin B produced 20-fold higher kidney concentrations than did Abelcet Lipid Complex given at comparable doses.
+The pharmacokinetics of Abelcet Lipid Complex in whole blood were determined in patients with mucocutaneous leishmaniasis.  Results for mean pharmacokinetic parameters at 5.0 mg/kg/day were as follows:
+
+
+
+
+Abelcet Lipid Complex
+
+
+Dose: (mg/kg/day)
+
+5.0
+
+Peak blood level Cmax: (μg/ml)
+
+1.7
+
+Area under time-concentration curve AUC0-24: (μg.hr/ml)
+
+9.5
+
+Clearance:  (ml/hr.kg)
+
+211.0
+
+Volume of distribution Vd:  (l/kg)
+
+2286.0
+
+Half-life T½: (hr)
+
+173.4
+
+The rapid clearance and large volume of distribution of Abelcet Lipid Complex result in a relatively low AUC and are consistent with preclinical data showing high tissue concentrations.  The kinetics of Abelcet Lipid Complex are linear, the AUC increases proportionately with dose.
+Details of the tissue distribution and metabolism of Abelcet Lipid Complex in humans, and the mechanisms responsible for reduced toxicity, are not well understood.  The following data are available from necropsy in a heart transplant patient who received Abelcet Lipid Complex at a dose of 5.3 mg/kg for 3 consecutive days immediately before death:
+
+
+Organ
+
+
+
+Abelcet Lipid Complex tissue concentration expressed as amphotericin B content (mg/kg)
+
+
+Spleen
+
+290.0
+
+Lung
+
+222.0
+
+Liver
+
+196.0
+
+Kidney
+
+    6.9
+
+Lymph node
+
+    7.6
+
+Heart
+
+    5.0
+
+Brain
+
+    1.6
+
+5.3 Preclinical safety data
+Acute toxicity studies in rodents showed that Abelcet Lipid Complex was 10-fold to 20-fold less toxic than conventional amphotericin B.  Multiple-dose toxicity studies in dogs lasting 2-4 weeks showed that on a mg/kg basis, Abelcet Lipid Complex was 8-fold to 10-fold less nephrotoxic than conventional amphotericin B.  This decreased nephrotoxicity was presumably a result of lower drug concentrations in the kidney.
+Since conventional amphotericin B first became available, there have been no reports of drug-related carcinogenicity, mutagenicity, teratogenicity or adverse effect on fertility.  Abelcet Lipid Complex has been shown not to be mutagenic by the in vivo mouse micronucleus assay, in vitro bacterial and lymphoma mutation assays, and an in vivo cytogenetic assay.  It has been shown not to be teratogenic in mice and rabbits.
+Phospholipids are essential constituents of human cell membranes.  The average diet provides several grams of phospholipids each day.  There is no evidence that phospholipids, including DMPC and DMPG, are carcinogenic, mutagenic or teratogenic.
+6. Pharmaceutical particulars
+6.1 List of excipients
+L-α-dimyristoylphosphatidylcholine (DMPC)
+L-α-dimyristoylphosphatidylglycerol (sodium and ammonium salts) (DMPG)
+Sodium Chloride
+Water for Injection
+6.2 Incompatibilities
+ Abelcet Lipid Complex should not be mixed with other drugs or electrolytes.
+6.3 Shelf life
+ 24 months.
+6.4 Special precautions for storage
+ Store at 2 °C – 8 °C.  Do not freeze.  Keep vial in the outer carton.
+6.5 Nature and contents of container
+Abelcet Lipid Complex is a sterile, pyrogen-free yellow suspension in a type I glass single use vial containing 10 or 20 ml (50 mg or 100 mg amphotericin B).  The vial is sealed with a rubber stopper and aluminium seal.  Vials are packaged in cartons of 10 vials.  Not all pack sizes may be marketed.
+6.6 Special precautions for disposal and other handling
+Abelcet Lipid Complex is a sterile, pyrogen-free suspension to be diluted for intravenous infusion only.
+
+Preparation of the suspension for infusion
+
+ASEPTIC TECHNIQUE MUST BE STRICTLY OBSERVED THROUGHOUT HANDLING OF ABELCET LIPID COMPLEX, SINCE NO BACTERIOSTATIC AGENT OR PRESERVATIVE IS PRESENT.
+Allow the suspension to come to room temperature.  Shake gently until there is no evidence of any yellow settlement at the bottom of the vial.  Withdraw the appropriate dose of Abelcet Lipid Complex from the required number of vials into one or more sterile 20 ml syringes using a 17 to 19 gauge needle.  Remove the needle from each syringe filled with Abelcet Lipid Complex and replace with the 5 micron high flow filter needle (supplied by B. Braun Medical, Inc.) provided with each vial.  Insert the filter needle of the syringe into an IV bag containing 5.0% Dextrose for Injection and empty the contents of the syringe into the bag using either manual pressure or an infusion pump.  The final infusion concentration should be 1 mg/ml.  For paediatric patients and patients with cardiovascular disease the drug may be diluted with 5.0% Dextrose for Injection to a final infusion concentration of 2 mg/ml.  Do not use the agent after dilution with 5.0% Dextrose for Injection if there is any evidence of foreign matter.  Vials are single use.  Unused material should be discarded.  The infusion is best administered by means of an infusion pump.
+DO NOT DILUTE WITH SALINE SOLUTIONS OR MIX WITH OTHER DRUGS OR ELECTROLYTES.  The compatibility of Abelcet Lipid Complex with these materials has not been established.  An existing intravenous line should be flushed with 5.0% Dextrose for Injection before infusion of Abelcet Lipid Complex or a separate infusion line should be used.
+The diluted ready for use suspension may be stored at 2 °C – 8 °C for up to 24 hours prior to use.  Shake vigorously before use.  Do not store for later use.
+7. Marketing authorisation holder
+ Teva Pharma B.V.Swensweg 52031 GA Haarlem
+	8. Marketing authorisation number(s)
+ PL 14776/0110
+9. Date of first authorisation/renewal of the authorisation
+Date of first authorisation:  09 February 1995
+Date of latest renewal: 22nd March 2010
+10. Date of revision of the text
+03/08/2020 
+

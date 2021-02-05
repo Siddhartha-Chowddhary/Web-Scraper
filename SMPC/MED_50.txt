@@ -1,0 +1,1180 @@
+
+
+This information is intended for use by health professionals
+
+1. Name of the medicinal product
+Acetylcysteine 200 mg/ml Injection
+2. Qualitative and quantitative composition
+Acetylcysteine 200mg per ml (as N-acetylcysteine)
+Each 10ml ampoule contains 2g N-acetylcysteine
+Each 20ml ampoule contains 4g N-acetylcysteine
+Excipients with known effect: 
+Each 10ml of N-acetylcysteine for Infusion contains 322.6 mg sodium. 
+For the full list of excipients, see section 6.1.
+3. Pharmaceutical form
+Clear colourless solution for Infusion
+4. Clinical particulars
+4.1 Therapeutic indications
+N-acetylcysteine is indicated for the treatment of paracetamol overdose in patients:
+a) who have taken a staggered overdose irrespective of plasma paracetamol level.  Staggered is defined as an overdose where the paracetamol was ingested over a period of 1 hour or more; or
+b) where there is any doubt over the time of the overdose, irrespective of plasma paracetamol level; or
+c) who present with a plasma paracetamol level on or above a line joining points of 100mg/L at 4h and 15mg/L at 15h (see below nomogram).
+4.2 Posology and method of administration
+The injection should be administered by intravenous infusion preferably using Glucose 5% as the infusion fluid. Sodium Chloride 0.9% solution may be used if Glucose 5% is not suitable.  
+
+
+Adults
+
+
+The full course of treatment with acetylcysteine comprises 3 consecutive intravenous infusions:
+
+First infusion
+
+Initial loading dose of 150 mg/kg body weight infused in 200 mL over 1 hour.
+
+Second infusion
+
+50 mg/kg in 500 mL over the next 4 hours.
+
+Third infusion
+
+100 mg/kg in 1 litre over the next 16 hours.
+The patient should therefore receive a total of 300 mg/kg over a 21 hour period.
+Continued treatment with acetylcysteine (given at the dose and rate as used in the third infusion) may be necessary depending on the clinical evaluation of the individual patient. 
+
+A ceiling weight of 110 kg should be used when calculating the dosage for obese patients.
+Dosage should be calculated using the patient's actual weight.
+
+
+
+Adult N-acetylcysteine prescription
+
+
+(each ampoule = 200mg/mL N-acetylcysteine)
+
+
+
+Please circle appropriate weight, dose and volume.
+
+
+
+Regimen
+
+
+
+Dose 1
+
+
+
+Dose 2
+
+
+
+Dose 3
+
+
+
+Fluid
+
+
+
+200 mLs 5% glucose or sodium chloride 0.9%
+
+
+
+500 mLs 5% glucose or sodium chloride 0.9%
+
+
+
+1000 mLs 5% glucose or sodium chloride 0.9%
+
+
+
+Duration of infusion
+
+
+
+60 minutes
+
+
+
+4 hours
+
+
+
+16 hours
+
+
+
+Drug dose
+
+
+
+150 mg/kg
+
+
+N-acetylcysteine
+
+
+
+50 mg/kg
+
+
+N-acetylcysteine
+
+
+
+100 mg/kg
+
+
+N-acetylcysteine
+
+
+
+Patient Weight1
+
+
+
+Dose
+
+
+
+Ampoule volume2
+
+
+
+Infusion Rate 
+
+
+
+Dose
+
+
+
+Ampoule volume2
+
+
+
+Infusion Rate
+
+
+
+Dose
+
+
+
+Ampoule volume2
+
+
+
+Infusion Rate
+
+
+
+kg
+
+
+
+mg
+
+
+
+mL
+
+
+
+mL/h
+
+
+
+mg
+
+
+
+mL
+
+
+
+mL/h
+
+
+
+mg
+
+
+
+mL
+
+
+
+mL/h
+
+
+
+40-49
+
+
+
+6750
+
+
+
+34
+
+
+
+234
+
+
+
+2250
+
+
+
+12
+
+
+
+128
+
+
+
+4500
+
+
+
+23
+
+
+
+64
+
+
+
+50-59
+
+
+
+8250
+
+
+
+42
+
+
+
+242
+
+
+
+2750
+
+
+
+14
+
+
+
+129
+
+
+
+5500
+
+
+
+28
+
+
+
+64
+
+
+
+60-69
+
+
+
+9750
+
+
+
+49
+
+
+
+249
+
+
+
+3250
+
+
+
+17
+
+
+
+129
+
+
+
+6500
+
+
+
+33
+
+
+
+65
+
+
+
+70-79
+
+
+
+11250
+
+
+
+57
+
+
+
+257
+
+
+
+3750
+
+
+
+19
+
+
+
+130
+
+
+
+7500
+
+
+
+38
+
+
+
+65
+
+
+
+80-89
+
+
+
+12750
+
+
+
+64
+
+
+
+264
+
+
+
+4250
+
+
+
+22
+
+
+
+131
+
+
+
+8500
+
+
+
+43
+
+
+
+65
+
+
+
+90-99
+
+
+
+14250
+
+
+
+72
+
+
+
+272
+
+
+
+4750
+
+
+
+24
+
+
+
+131
+
+
+
+9500
+
+
+
+48
+
+
+
+66
+
+
+
+100-109
+
+
+
+15750
+
+
+
+79
+
+
+
+279
+
+
+
+5250
+
+
+
+27
+
+
+
+132
+
+
+
+10500
+
+
+
+53
+
+
+
+66
+
+
+
+>110- Max dose
+
+
+
+16500
+
+
+
+83
+
+
+
+283
+
+
+
+5500
+
+
+
+28
+
+
+
+132
+
+
+
+11000
+
+
+
+55
+
+
+
+66
+
+
+
+1 Dose calculations are based on the weight in the middle of each band.
+
+
+2
+ Ampoule volume has been rounded up to the nearest whole number.
+ Children
+Children should be treated with the same doses and regimen as adults; however, the quantity of intravenous fluid used should be modified to take into account age and weight, as fluid overload is a potential danger.  
+N-acetylcysteine should be administered by intravenous infusion preferably using Glucose 5% as the infusion fluid. Sodium Chloride 0.9% solution may be used if Glucose 5% is not suitable. 
+Doses should be administered using an appropriate infusion pump.
+The full course of treatment with N-acetylcysteine comprises 3 consecutive intravenous infusions:
+
+
+First infusion
+
+
+
+Initial loading dose of 150 mg/kg infused over 1 hour (150 mg/kg/h).
+
+
+Given as a 50 mg/mL solution at a rate of 3 mL/kg/h.
+
+
+
+Second Infusion
+
+
+
+Dose: 50 mg/kg infused over 4 hours (12.5 mg/kg/h).
+
+
+Given as a 6.25 mg/mL solution at a rate of 2 mL/kg/h.
+
+
+
+Third Infusion
+
+
+
+Dose: 100 mg/kg infused over 16 hours (6.25 mg/kg/h).
+
+
+Given as a 6.25 mg/mL solution at a rate of 1 mL/kg/h.
+
+
+
+Preparation of the solution
+
+
+
+Dose 1
+
+
+Prepare a 50 mg/mL solution.  Dilute each 10mL ampoule of N-acetylcysteine (200 mg/mL) with 30 mL glucose 5% or sodium chloride 0.9% to give a total volume of 40 mL.
+
+
+Dose 2
+
+
+Prepare a 6.25 mg/mL solution.  Dilute each 10 mL ampoule of N-acetylcysteine (200 mg/mL) with 310 mL glucose 5% or sodium chloride 0.9% to give a total volume of 320 mL.
+
+
+Dose 3
+
+
+Prepare a 6.25 mg/mL solution.  Dilute each 10 mL ampoule of N-acetylcysteine (200  mg/mL) with 310 mL glucose 5% or sodium chloride 0.9% to give a total volume of 320 mL.
+
+
+Any unused solution should be disposed of in accordance with local requirements.
+
+
+
+Administration
+
+
+
+Weigh the child.  
+
+
+Determine the total volume of solution to be infused (infusion fluid + N-acetylcysteine prepared as above) into the child from the table.  A separate volume will be required for each of the three infusion periods.  
+
+
+For example for a child weighing 12 kg, 38mL of solution is required for Dose 1, 100mL for Dose 2 and 200mL for Dose 3. 
+
+
+Infuse intravenously according to the weight of the child (see table). 
+
+
+For example for a child weighing 12 kg, Dose 1 is infused at 38mL/h over 60 minutes, Dose 2 would be infused at 25mL/h and Dose 3 at 13mL/h.  
+
+
+Doses should be administered sequentially with no break between the doses.
+
+
+
+
+Paediatric N-acetylcysteine prescription
+
+
+(each ampoule = 200mg/mL N-acetylcysteine)
+
+
+
+Please circle appropriate weight, dose and volume.
+
+
+
+Regimen
+
+
+
+Dose 1
+
+
+
+Dose 2
+
+
+
+Dose 3
+
+
+
+N-acetylcysteine dose
+
+
+
+150 mg/kg
+
+
+
+50 mg/kg
+
+
+
+100 mg/kg
+
+
+
+Duration of infusion
+
+
+
+1 hour
+
+
+
+4 hours
+
+
+
+16 hours
+
+
+
+Infusion concentration
+
+
+
+50mg/ml
+
+
+
+6.25mg/ml
+
+
+
+6.25mg/ml
+
+
+
+Rate of infusion
+
+
+
+3ml/kg/h
+
+
+
+2ml/kg/h
+
+
+
+1ml/kg/h
+
+
+
+Patient Weight1
+
+
+
+Dose
+
+
+
+Rate of Infusion
+
+
+
+Total Infusion Volume
+
+
+
+Dose
+
+
+
+Rate of Infusion
+
+
+
+Total Infusion Volume
+
+
+
+Dose
+
+
+
+Rate of Infusion
+
+
+
+Total Infusion Volume
+
+
+
+Kg
+
+
+
+mg
+
+
+
+mL/h
+
+
+
+mL
+
+
+
+mg
+
+
+
+mL/h
+
+
+
+mL
+
+
+
+mg
+
+
+
+mL/h
+
+
+
+mL
+
+
+1
+
+150
+
+3
+
+3
+
+50
+
+2
+
+8
+
+100
+
+1
+
+16
+
+2
+
+300
+
+6
+
+6
+
+100
+
+4
+
+16
+
+200
+
+2
+
+32
+
+3
+
+450
+
+9
+
+9
+
+150
+
+6
+
+24
+
+300
+
+3
+
+48
+
+4
+
+600
+
+12
+
+12
+
+200
+
+8
+
+32
+
+400
+
+4
+
+64
+
+5
+
+750
+
+15
+
+15
+
+250
+
+10
+
+40
+
+500
+
+5
+
+80
+
+6
+
+900
+
+18
+
+18
+
+300
+
+12
+
+48
+
+600
+
+6
+
+96
+
+7
+
+1050
+
+21
+
+21
+
+350
+
+14
+
+56
+
+700
+
+7
+
+112
+
+8
+
+1200
+
+24
+
+24
+
+400
+
+16
+
+64
+
+800
+
+8
+
+128
+
+9
+
+1350
+
+27
+
+27
+
+450
+
+18
+
+72
+
+900
+
+9
+
+144
+
+10-14
+
+1875
+
+38
+
+38
+
+625
+
+25
+
+100
+
+1250
+
+13
+
+208
+
+15-19
+
+2625
+
+53
+
+53
+
+875
+
+35
+
+140
+
+1750
+
+18
+
+288
+
+20-24
+
+3375
+
+68
+
+68
+
+1125
+
+45
+
+180
+
+2250
+
+23
+
+368
+
+25-29
+
+4125
+
+83
+
+83
+
+1375
+
+55
+
+220
+
+2750
+
+28
+
+448
+
+30-34
+
+4875
+
+98
+
+98
+
+1625
+
+65
+
+260
+
+3250
+
+33
+
+528
+
+35-39
+
+5625
+
+113
+
+113
+
+1875
+
+75
+
+300
+
+3750
+
+38
+
+608
+
+
+1 Dose calculations are based on the weight in the middle of each band.
+4.3 Contraindications
+There are no contraindications to the treatment of paracetamol overdose with N-acetylcysteine.
+4.4 Special warnings and precautions for use
+Intravenous N-acetylcysteine, given within 24 hours of ingestion of a potentially hepatotoxic overdose of paracetamol, is indicated to prevent or reduce the severity of liver damage. It is most effective when administered within 8 to 10 hours of a paracetamol overdose. Although the efficacy of N-acetylcysteine diminishes between 10 and 24 hours post-overdose, it should be administered up to 24 hours as it can still be of benefit. It may still be administered after 24 hours in patients at risk of severe liver damage.
+Anaphylactoid reactions
+Anaphylactoid hypersensitivity reactions occur with N-acetylcysteine, particularly with the initial loading dose. The patient should be carefully observed during this period for signs of an anaphylactoid reaction.  Nausea, vomiting, flushing, skin rash, pruritus and urticaria are the most common features, but more serious anaphylactoid reactions have been reported where the patient develops angioedema, bronchospasm, respiratory distress, tachycardia and hypotension. In very rare cases these reactions have been fatal.  There is some evidence that patients with a history of atopy and asthma may be at increased risk of developing an anaphylactoid reaction.
+Most anaphylactoid reactions can be managed by temporarily suspending the N-acetylcysteine infusion, administering appropriate supportive care and restarting at a lower infusion rate. Once an anaphylactoid reaction is under control, the infusion can normally be restarted at an infusion rate of 50 mg/kg over 4 hours, followed by the final 16 hour infusion (100 mg/kg over 16 hours).
+Coagulation
+Changes in haemostatic parameters have been observed in association with N-acetylcysteine treatment, some leading to decreased prothrombin time, but most leading to a small increase in prothrombin time. An isolated increase in prothombin time up to 1.3 at the end of a 21 hour course of N-acetylcysteine without an elevated transaminase activity do not require further monitoring or treatment with N-acetylcysteine.
+Fluid and electrolytes
+Use with caution in children, patients requiring fluid restriction or those who weigh less than <40 kg because of the risk of fluid overload which may result in hyponatraemia and seizures which may be life threatening.
+Each 10ml of N-acetylcysteine for Infusion contains 322.6mg sodium. To be taken into consideration with patients on a controlled sodium diet.
+4.5 Interaction with other medicinal products and other forms of interaction
+There are no known interactions.
+4.6 Fertility, pregnancy and lactation
+The safety of N-acetylcysteine in pregnancy has not been investigated in formal prospective clinical trials. However, clinical experience indicates that use of N-acetylcysteine in pregnancy for the treatment of paracetamol overdose is effective. Prior to use in pregnancy, the potential risks should be balanced against the potential benefits.
+No information is available on the excretion of the drug into breast milk.  Breast-feeding is thus not advised during or immediately following the use of this drug.
+4.7 Effects on ability to drive and use machines
+There are no known effects on ability to drive and use machines.
+4.8 Undesirable effects
+The most common adverse reactions reported with N-acetylcysteine are nausea, vomiting, flushing and skin rash. 
+Less commonly, more serious anaphylactoid reactions have been reported that include angioedema, bronchospasm/respiratory distress, hypotension, tachycardia or hypertension. 
+Adverse reactions to N-acetylcysteine usually occur between 15 and 60 minutes after the start of infusion and, in many cases, symptoms are relieved by stopping the infusion. An antihistamine drug may be necessary, and occasionally corticosteroids may be required. Once an adverse reaction is under control, the infusion can normally be restarted at the lowest infusion rate (100mg/kg in 1 litre over 16 hours).
+Other reported adverse reactions include:  injection site reactions, pruritus, cough, chest tightness or pain, puffy eyes, sweating, malaise, raised temperature, vasodilation, blurred vision, bradycardia, facial or eye pain, syncope, acidosis, thrombocytopenia, respiratory or cardiac arrest, stridor, anxiety, extravasation, arthropathy, arthralgia, deterioration of liver function, generalised seizure, cyanosis, lowered blood urea. 
+Case reports of fatalities with N-acetylcysteine have been reported very rarely.
+Hypokalaemia and ECG changes have been noted in patients with paracetamol poisoning irrespective of the treatment given. Monitoring of plasma potassium concentration is, therefore, recommended.
+If any adverse reactions to N-acetylcysteine develop, advice should be sought from the National Poisons Centre to ensure that the patient receives adequate treatment of the paracetamol overdose.
+Reporting of suspected adverse reactions
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the Yellow Card Scheme at: www.mhra.gov.uk/yellowcard.
+4.9 Overdose
+There is a theoretical risk of hepatic encephalopathy. Overdosage of N-acetylcysteine has been reported to be associated with effects similar to the 'anaphylactoid' reactions noted in section 4.8 (Undesirable Effects), but they may be more severe. General supportive measures should be carried out. Such reactions are managed with antihistamines and steroids in the usual way. There is no specific antidote.
+5. Pharmacological properties
+5.1 Pharmacodynamic properties
+ATC Code: V03AB23
+Pharmacotherapeutic Group: Antidotes
+N-acetylcysteine is considered to reduce the hepatic toxicity of NAPQI (n-acetyl-p-benzo-quinoneimine), the highly reactive intermediate metabolite following ingestion of a high dose of paracetamol, by at least two mechanisms. First, N-acetylcysteine acts as a precursor for the synthesis of glutathione and, therefore, maintains cellular glutathione at a level sufficient to inactivate NAPQI. This is thought to be the main mechanism by which N-acetylcysteine acts in the early stages of paracetamol toxicity. 
+N-acetylcysteine has been shown to still be effective when infusion is started at up to 12 hours after paracetamol ingestion, when most of the analgesic will have been metabolised to its reactive metabolite. At this stage, N-acetylcysteine is thought to act by reducing oxidised thiol groups in key enzymes. 
+When N-acetylcysteine treatment is begun more than 8 to 10 hours after paracetamol overdose, its efficacy in preventing hepatotoxicity (based on serum indicators) declines progressively with further lengthening of the overdose-treatment interval (the time between paracetamol overdose and start of treatment). However, there is now evidence that it can still be beneficial when given up to 24 hours after overdose. At this late stage of paracetamol hepatotoxicity, N-acetylcysteine's beneficial effects may be due to its ability to improve systematic haemodynamics and oxygen transport, although the mechanism by which this may occur has yet to be determined.
+5.2 Pharmacokinetic properties
+Following intravenous administration of N-acetylcysteine using the standard 21-hour intravenous regimen, plasma levels of 300 to 900mg/l have been reported to occur shortly after the start of the infusion, falling to 11 to 90mg/l at the end of the infusion period. Elimination half-lives of 2 to 6 hours have been reported after intravenous dosing, with 20 to 30% of the administered dose being recovered unchanged in the urine. 
+Metabolism appears to be rapid and extensive. There is no information on whether N-acetylcysteine crosses the blood-brain barrier or the placenta, or whether it is excreted in breast milk.
+5.3 Preclinical safety data
+None stated.
+6. Pharmaceutical particulars
+6.1 List of excipients
+Disodium Edetate
+Nitrogen Gas
+Sodium Hydroxide (for pH adjustment where required)
+Water for Injection
+6.2 Incompatibilities
+N-acetylcysteine is not compatible with rubber and metals, particularly iron, copper and nickel.  Silicone rubber and plastic are satisfactory for use with N-acetylcysteine.
+A change in the colour of the solution to light purple has sometimes been noted and is not thought to indicate significant impairment of safety or efficacy.
+6.3 Shelf life
+24 months 
+Once diluted according to directions (see section 4.2), start using within 3 hours. 
+6.4 Special precautions for storage
+Do not store above 25° C. Keep container in the outer carton.
+Keep out of the sight and reach of children.
+6.5 Nature and contents of container
+10ml Type I clear glass ampoules in packs of 10
+20ml Type 1 clear glass ampoules in packs of 5 and 10
+Not all pack sizes may be marketed.
+6.6 Special precautions for disposal and other handling
+N-acetylcysteine injection must be diluted prior to administration by intravenous infusion. The following infusion fluids may be used: 5% dextrose, 0.9% sodium chloride, 0.3% potassium chloride with 5% glucose, or 0.3% potassium chloride with 0.9% sodium chloride. The volumes to be used are as directed in Section 4.2. 
+Use once only and discard any unused solution at the end of the session in the appropriate manner.
+7. Marketing authorisation holder
+Aurum Pharmaceuticals Ltd 
+T/A Martindale Pharma
+Bampton Road
+Harold Hill
+Romford
+Essex RM3 8UG
+United Kingdom
+8. Marketing authorisation number(s)
+PL 12064/0026
+9. Date of first authorisation/renewal of the authorisation
+Date of first authorisation: 2nd November 2004
+10. Date of revision of the text
+23/02/2017
+

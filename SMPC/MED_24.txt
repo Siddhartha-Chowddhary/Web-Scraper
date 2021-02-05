@@ -1,0 +1,1106 @@
+
+
+This information is intended for use by health professionals
+
+1. Name of the medicinal product
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+2. Qualitative and quantitative composition
+
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection
+
+Each vial contains 300 mg aripiprazole.
+
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection
+
+Each vial contains 400 mg aripiprazole.
+
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+Each pre-filled syringe contains 300 mg aripiprazole.
+
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+Each pre-filled syringe contains 400 mg aripiprazole.
+After reconstitution each ml of suspension contains 200 mg aripiprazole.
+For the full list of excipients, see section 6.1.
+3. Pharmaceutical form
+Powder and solvent for prolonged-release suspension for injection
+Powder: white to off-white
+Solvent: clear solution
+4. Clinical particulars
+4.1 Therapeutic indications
+Abilify Maintena is indicated for maintenance treatment of schizophrenia in adult patients stabilised with oral aripiprazole.
+4.2 Posology and method of administration
+
+Posology
+
+For patients who have never taken aripiprazole, tolerability with oral aripiprazole must occur prior to initiating treatment with Abilify Maintena.
+Titration of the dose for Abilify Maintena is not required. 
+The starting dose can be administered by following one of two regimens: 
+
+			• One injection start: On the day of initiation, administer one injection of 400 mg Abilify Maintena and continue treatment with 10 mg to 20 mg oral aripiprazole per day for 14 consecutive days to maintain therapeutic aripiprazole concentrations during initiation of therapy. 
+
+			• Two injection start: On the day of initiation, administer two separate injections of 400 mg Abilify Maintena at separate injection sites (see method of administration), along with one 20 mg dose of oral aripiprazole. 
+After the injection start, the recommended maintenance dose of Abilify Maintena is 400 mg. Abilify Maintena should be administered once monthly as a single injection (no sooner than 26 days after the previous injection). If there are adverse reactions with the 400 mg dosage, reduction of the dose to 300 mg once monthly should be considered.
+
+Missed doses
+
+
+
+Missed doses
+
+
+
+Timing of Missed Dose
+
+
+
+Action
+
+
+
+If 2nd or 3rd dose is missed and time since last injection is:
+
+
+
+
+> 4 weeks and < 5 weeks 
+
+The injection should be administered as soon as possible and then the monthly injection schedule should be resumed.
+
+> 5 weeks 
+
+Concomitant oral aripiprazole should be restarted for 14 days with next administered injection or two separate injections given at one time, along with a single dose of 20 mg oral aripiprazole. Monthly injection schedule should then resume.
+
+
+If 4th or subsequent doses are missed (i.e., after attainment of steady state) and time since last injection is:
+
+
+
+
+> 4 weeks and < 6 weeks
+
+The injection should be administered as soon as possible and then the monthly injection schedule should be resumed.
+
+> 6 weeks
+
+Concomitant oral aripiprazole should be restarted for 14 days with next administered injection or two separate injections given at one time, along with a single dose of 20 mg oral aripiprazole. Monthly injection schedule should then resume.
+
+
+
+Special populations
+
+
+Elderly
+
+The safety and efficacy of Abilify Maintena in the treatment of schizophrenia in patients 65 years of age or older has not been established (see section 4.4).
+
+Renal impairment
+
+No dosage adjustment is required for patients with renal impairment (see section 5.2).
+
+Hepatic impairment
+
+No dosage adjustment is required for patients with mild or moderate hepatic impairment. In patients with severe hepatic impairment, the data available are insufficient to establish recommendations. In these patients dosing should be managed cautiously. Oral formulation should be preferred (see section 5.2).
+
+Known CYP2D6 poor metabolisers
+
+In patients who are known to be CYP2D6 poor metabolisers: 
+
+			• One injection start: The starting dose should be 300 mg Abilify Maintena and continue treatment with prescribed dose of oral aripiprazole per day for 14 consecutive days. 
+
+			• Two injection start: The starting dose should be 2 separate injections of 300 mg Abilify Maintena (see method of administration) along with one single dose of the previous prescribed dose of oral aripiprazole. 
+In patients who are known to be CYP2D6 poor metabolisers and concomitantly use a strong CYP3A4 inhibitor:
+
+			• The one injection start: The starting dose should be reduced to 200 mg (see section 4.5) and continue treatment with the prescribed dose of oral aripiprazole per day for 14 consecutive days.
+
+			• Two injection start is not to be used in patients who are known to be CYP2D6 poor metabolisers and concomitantly use a strong CYP3A4 inhibitor.
+After the injection start, see table below for the recommended maintenance dose of Abilify Maintena. Abilify Maintena should be administered once monthly as a single injection (no sooner than 26 days after the previous injection).
+
+Maintenance dose adjustments due to interactions with CYP2D6 and/or CYP3A4 inhibitors and/or CYP3A4 inducers
+
+Maintenance dosage adjustments should be made in patients taking concomitant strong CYP3A4 inhibitors or strong CYP2D6 inhibitors for more than 14 days. If the CYP3A4 inhibitor or CYP2D6 inhibitor is withdrawn, the dosage may need to be increased to the previous dose (see section 4.5). In case of adverse reactions despite dose adjustments of Abilify Maintena, the necessity of concomitant use of CYP2D6 or CYP3A4 inhibitor should be reassessed.
+Concomitant use of CYP3A4 inducers with Abilify Maintena should be avoided for more than 14 days because the blood levels of aripiprazole are decreased and may be below the effective levels (see section 4.5).
+
+Maintenance dose adjustments of Abilify Maintena in patients who are taking concomitant strong CYP2D6 inhibitors, strong CYP3A4 inhibitors, and/or CYP3A4 inducers for more than 14 days
+
+
+
+
+
+Adjusted dose
+
+
+
+Patients taking 400 mg of Abilify Maintena
+
+
+Strong CYP2D6 or strong CYP3A4 inhibitors
+
+300 mg
+
+Strong CYP2D6 and strong CYP3A4 inhibitors
+
+200 mg*
+
+CYP3A4 inducers
+
+Avoid use
+
+
+Patients taking 300 mg of Abilify Maintena
+
+
+Strong CYP2D6 or strong CYP3A4 inhibitors
+
+200 mg*
+
+Strong CYP2D6 and strong CYP3A4 inhibitors
+
+160 mg*
+
+CYP3A4 inducers
+
+Avoid use
+
+* 200 mg and 160 mg can be achieved via adjustment of the injection volume only by using Abilify Maintena powder and solvent for  prolonged-release suspension for injection.
+
+Paediatric population
+
+The safety and efficacy of Abilify Maintena in children and adolescents aged 0-17 years have not been established. No data are available.
+
+Method of administration
+
+Abilify Maintena is only intended for intramuscular use and should not be administered intravenously or subcutaneously. It should only be administered by a healthcare professional.
+The suspension should be injected slowly as a single injection (doses must not be divided) into the gluteal or deltoid muscle. Care should be taken to avoid inadvertent injection into a blood vessel.
+If initiating with the two injection start, inject into two different sites in two different muscles. DO NOT inject both injections concomitantly into the same deltoid or gluteal muscle. For known CYP2D6 poor metabolisers administer in either two separate deltoid muscles or one deltoid and one gluteal muscle. DO NOT inject into two gluteal muscles.
+Full instructions for use and handling of Abilify Maintena are provided in the package leaflet (information intended for healthcare professionals).
+For instructions on reconstitution of the medicinal product before administration, see section 6.6.
+4.3 Contraindications
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+4.4 Special warnings and precautions for use
+During antipsychotic treatment, improvement in the patient's clinical condition may take several days to some weeks. Patients should be closely monitored throughout this period.
+
+Use in patients who are in an acutely agitated or severely psychotic state
+
+Abilify Maintena should not be used to manage acutely agitated or severely psychotic states when immediate symptom control is warranted.
+
+Suicidality
+
+The occurrence of suicidal behaviour is inherent in psychotic illnesses, and in some cases has been reported early after initiation or switch of antipsychotic treatment, including treatment with aripiprazole (see section 4.8). Close supervision of high risk patients should accompany antipsychotic treatment.
+
+Cardiovascular disorders
+
+Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischaemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medicinal products) or hypertension, including accelerated or malignant. Cases of venous thromboembolism (VTE) have been reported with antipsychotic medicinal products. Since patients treated with antipsychotics often present with acquired risk factors for VTE, all possible risk factors for VTE should be identified before and during treatment with aripiprazole and preventive measures undertaken (see section 4.8).
+
+QT prolongation
+
+In clinical trials of treatment with oral aripiprazole, the incidence of QT prolongation was comparable to placebo. Aripiprazole should be used with caution in patients with a family history of QT prolongation (see section 4.8).
+
+Tardive dyskinesia
+
+In clinical trials of one year or less duration, there were uncommon reports of treatment emergent dyskinesia during treatment with aripiprazole. If signs and symptoms of tardive dyskinesia appear in a patient on aripiprazole, dose reduction or discontinuation should be considered (see section 4.8). These symptoms can temporally deteriorate or can even arise after discontinuation of treatment.
+
+Neuroleptic Malignant Syndrome (NMS)
+
+NMS is a potentially fatal symptom complex associated with antipsychotics. In clinical trials, rare cases of NMS were reported during treatment with aripiprazole. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported. If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotics, including aripiprazole, must be discontinued (see section 4.8).
+
+Seizure
+
+In clinical trials, uncommon cases of seizure were reported during treatment with aripiprazole. Therefore, aripiprazole should be used with caution in patients who have a history of seizure disorder or have conditions associated with seizures (see section 4.8).
+
+Elderly patients with dementia-related psychosis
+
+
+Increased mortality
+
+In three placebo-controlled trials of oral aripiprazole in elderly patients with psychosis associated with Alzheimer's disease (n = 938; mean age: 82.4 years; range: 56-99 years), patients treated with aripiprazole were at an increased risk of death compared to placebo. The rate of death in oral aripiprazole-treated patients was 3.5 % compared to 1.7 % in placebo. Although the causes of deaths were varied, most of the deaths appeared to be either cardiovascular (e.g. heart failure, sudden death) or infectious (e.g. pneumonia) in nature (see section 4.8).
+
+Cerebrovascular adverse reactions
+
+In the same trials with oral aripiprazole, cerebrovascular adverse reactions (e.g. stroke, transient ischaemic attack), including fatalities, were reported in patients (mean age: 84 years; range: 78-88 years). Overall, 1.3 % of oral aripiprazole-treated patients reported cerebrovascular adverse reactions compared with 0.6 % of placebo-treated patients in these trials. This difference was not statistically significant. However, in one of these trials, a fixed-dose trial, there was a significant dose- response relationship for cerebrovascular adverse reactions in patients treated with aripiprazole (see section 4.8).
+Aripiprazole is not indicated for the treatment of patients with dementia-related psychosis.
+
+Hyperglycaemia and diabetes mellitus
+
+Hyperglycaemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with aripiprazole. Risk factors that may predispose patients to severe complications include obesity and family history of diabetes. Patients treated with aripiprazole should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control (see section 4.8).
+
+Hypersensitivity
+
+Hypersensitivity reactions, characterised by allergic symptoms, may occur with aripiprazole (see section 4.8).
+
+Weight gain
+
+Weight gain is commonly seen in schizophrenic patients due to use of antipsychotics known to cause weight gain, co-morbidities, poorly managed life-style and might lead to severe complications. Weight gain has been reported post-marketing among patients prescribed oral aripiprazole. When seen, it is usually in those with significant risk factors such as history of diabetes, thyroid disorder or pituitary adenoma. In clinical trials aripiprazole has not been shown to induce clinically relevant weight gain (see section 4.8).
+
+Dysphagia
+
+Oesophageal dysmotility and aspiration have been associated with the use of aripiprazole. Aripiprazole should be used cautiously in patients at risk for aspiration pneumonia.
+
+Pathological gambling and other impulse control disorders
+
+Patients can experience increased urges, particularly for gambling, and the inability to control these urges while taking aripiprazole. Other urges, reported, include: increased sexual urges, compulsive shopping, binge or compulsive eating, and other impulsive and compulsive behaviours. It is important for prescribers to ask patients or their caregivers specifically about the development of new or increased gambling urges, sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole. It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medicinal productation was discontinued. Impulse control disorders may result in harm to the patient and others if not recognised. A dose reduction or stopping of the medicinal product should be considered if a patient develops such urges (see section 4.8).
+
+Falls
+
+Aripiprazole may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls. Caution should be taken when treating patients at higher risk, and a lower starting dose should be considered (e.g., elderly or debilitated patients; see section 4.2).
+
+Sodium
+
+Abilify Maintena contains less than 1 mmol of sodium (23 mg) per dose.
+4.5 Interaction with other medicinal products and other forms of interaction
+No interaction studies have been performed with Abilify Maintena. The information below is obtained from studies with oral aripiprazole.
+Due to its α1-adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive medicinal products.
+Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
+If aripiprazole is administered concomitantly with medicinal products known to cause QT prolongation or electrolyte imbalance, caution should be used.
+
+Potential for other medicinal products to affect aripiprazole
+
+
+Quinidine and other strong CYP2D6 inhibitors
+
+In a clinical trial of oral aripiprazole in healthy subjects, a strong inhibitor of CYP2D6 (quinidine) increased aripiprazole AUC by 107 %, while Cmax was unchanged. The AUC and Cmax of dehydro-aripiprazole, the active metabolite, decreased by 32 % and 47 %, respectively. Other strong inhibitors of CYP2D6, such as fluoxetine and paroxetine, may be expected to have similar effects and similar dose reduction should, therefore, be applied (see section 4.2).
+
+Ketoconazole and other strong CYP3A4 inhibitors
+
+In a clinical trial of oral aripiprazole in healthy subjects, a strong inhibitor of CYP3A4 (ketoconazole) increased aripiprazole AUC and Cmax by 63 % and 37 %, respectively. The AUC and Cmax of dehydro-aripiprazole increased by 77 % and 43 %, respectively. In CYP2D6 poor metabolisers, concomitant use of strong inhibitors of CYP3A4 may result in higher plasma concentrations of aripiprazole compared to that in CYP2D6 extensive metabolisers (see section 4.2). When considering concomitant administration of ketoconazole or other potent CYP3A4 inhibitors with aripiprazole, potential benefits should outweigh the potential risks to the patient. Other strong inhibitors of CYP3A4, such as itraconazole and HIV protease inhibitors may be expected to have similar effects and similar dose reductions should, therefore, be applied (see section 4.2). Upon discontinuation of the CYP2D6 or CYP3A4 inhibitor, the dosage of aripiprazole should be increased to the dose prior to the initiation of the concomitant therapy. When weak inhibitors of CYP3A4 (e.g. diltiazem) or CYP2D6 (e.g. escitalopram) are used concomitantly with aripiprazole, modest increases in plasma aripiprazole concentrations may be expected.
+
+Carbamazepine and other CYP3A4 inducers
+
+Following concomitant administration of carbamazepine, a strong inducer of CYP3A4, and oral aripiprazole to patients with schizophrenia or schizoaffective disorder, the geometric means of Cmax and AUC for aripiprazole were 68 % and 73 % lower, respectively, compared to when oral aripiprazole (30 mg) was administered alone. Similarly, for dehydro-aripiprazole the geometric means of Cmax and AUC after carbamazepine co-administration were 69 % and 71 % lower, respectively, than those following treatment with oral aripiprazole alone. Concomitant administration of Abilify Maintena and other inducers of CYP3A4 (such as rifampicin, rifabutin, phenytoin, phenobarbital, primidone, efavirenz, nevirapine and St. John's Wort) may be expected to have similar effects. The concomitant use of CYP3A4 inducers with Abilify Maintena should be avoided because the blood levels of aripiprazole are decreased and may be below the effective levels.
+
+Serotonin syndrome
+
+Cases of serotonin syndrome have been reported in patients taking aripiprazole, and possible signs and symptoms for this condition can occur especially in cases of concomitant use with other serotonergic medicinal products, such as SSRI/SNRI, or with medicinal products that are known to increase aripiprazole concentrations (see section 4.8).
+4.6 Fertility, pregnancy and lactation
+
+Pregnancy
+
+There are no adequate and well-controlled trials of aripiprazole in pregnant women. Congenital anomalies have been reported; however, causal relationship with aripiprazole could not be established. Animal studies could not exclude potential developmental toxicity (see section 5.3). Patients must be advised to notify their physician if they become pregnant or intend to become pregnant during treatment with aripiprazole. Due to insufficient safety information in humans and concerns raised by animal reproductive studies, this medicinal product should not be used in pregnancy unless the expected benefit clearly justifies the potential risk to the foetus.
+Prescribers need to be aware of the long-acting properties of Abilify Maintena.
+New-born infants exposed to antipsychotics (including aripiprazole) during the third trimester of pregnancy are at risk of adverse reactions including extrapyramidal and/or withdrawal symptoms that may vary in severity and duration following delivery. There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, or feeding disorder. Consequently, new-born infants should be monitored carefully (see section 4.8).
+
+Breast-feeding
+
+Aripiprazole is excreted in human milk. A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from aripiprazole therapy taking into account the benefit of breast feeding for the child and the benefit of therapy for the woman.
+
+Fertility
+
+Aripiprazole did not impair fertility based on data from reproductive toxicity studies.
+4.7 Effects on ability to drive and use machines
+Aripiprazole has minor to moderate influence on the ability to drive and use machines due to potential nervous system and visual effects, such as sedation, somnolence, syncope, vision blurred, diplopia (see section 4.8).
+4.8 Undesirable effects
+
+Summary of the safety profile
+
+The most frequently observed adverse drug reactions (ADRs) reported in ≥ 5 % of patients in two double-blind, long-term trials of Abilify Maintena were weight increased (9.0 %), akathisia (7.9 %), insomnia (5.8 %), and injection site pain (5.1 %).
+
+Tabulated list of adverse reactions
+
+The incidences of the ADRs associated with aripiprazole therapy are tabulated below. The table is based on adverse reactions reported during clinical trials and/or post-marketing use.
+All ADRs are listed by system organ class and frequency; very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), very rare (< 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The frequency of adverse reactions reported during post-marketing use cannot be determined as they are derived from spontaneous reports. Consequently, the frequency of these adverse events is qualified as "not known".
+
+
+
+
+Common
+
+
+
+
+Uncommon
+
+
+
+
+Not known
+
+
+
+Blood and lymphatic system disorders
+
+
+
+
+Neutropenia
+Anaemia
+Thrombocytopenia
+Neutrophil count decreased
+White blood cell count decreased
+
+Leukopenia
+
+
+Immune system disorders
+
+
+
+
+Hypersensitivity
+
+
+Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus, or urticaria)
+
+
+Endocrine disorders
+
+
+
+
+Blood prolactin decreased
+Hyperprolactinaemia
+
+Diabetic hyperosmolar coma
+Diabetic ketoacidosis
+
+
+Metabolism and nutrition disorders
+
+
+Weight increased
+Diabetes mellitus
+Weight decreased
+
+
+Hyperglycaemia
+Hypercholesterolaemia
+Hyperinsulinaemia
+Hyperlipidaemia
+Hypertriglyceridaemia
+Appetite disorder
+
+Anorexia
+Hyponatraemia
+
+
+Psychiatric disorders
+
+
+Agitation
+Anxiety
+Restlessness
+Insomnia
+
+Suicidal ideation
+Psychotic disorder
+Hallucination
+Delusion
+Hypersexuality
+Panic reaction
+Depression
+Affect lability
+Apathy
+Dysphoria
+Sleep disorder
+Bruxism
+Libido decreased
+Mood altered
+
+Completed suicide
+Suicide attempt
+Pathological gambling
+Impulse-control disorders
+Binge eating
+Compulsive shopping
+Poriomania
+Nervousness
+Aggression
+
+
+
+Nervous system disorders
+
+
+Extrapyramidal disorder
+Akathisia
+Tremor
+Dyskinesia
+Sedation
+Somnolence
+Dizziness
+Headache
+
+Dystonia
+Tardive dyskinesia
+Parkinsonism
+Movement disorder
+Psychomotor hyperactivity
+Restless legs syndrome
+Cogwheel rigidity
+Hypertonia
+Bradykinesia
+Drooling
+Dysgeusia
+Parosmia
+
+
+Neuroleptic malignant syndrome
+Grand mal convulsion
+Serotonin syndrome
+Speech disorder
+
+
+
+Eye disorders
+
+
+
+
+Oculogyric crisis
+Vision blurred
+Eye pain
+Diplopia
+Photophobia
+
+
+
+
+Cardiac disorders
+
+
+
+
+Ventricular extrasystoles
+Bradycardia
+Tachycardia
+Electrocardiogram T wave amplitude decreased
+Electrocardiogram abnormal
+Electrocardiogram T wave inversion
+
+Sudden unexplained death
+Cardiac arrest
+Torsades de pointes
+Ventricular arrhythmias
+QT prolongation
+
+
+
+Vascular disorders
+
+
+
+
+Hypertension
+Orthostatic hypotension
+Blood pressure increased
+
+
+Syncope
+Venous thromboembolism (including pulmonary embolism and deep vein thrombosis)
+
+
+Respiratory, thoracic and mediastinal disorders
+
+
+
+
+Cough
+Hiccups
+
+Oropharyngeal spasm
+Laryngospasm
+Aspiration pneumonia
+
+
+Gastrointestinal disorders
+
+
+Dry mouth
+
+Gastrooesophageal reflux disease
+Dyspepsia
+Vomiting
+Diarrhoea
+Nausea
+Abdominal pain upper
+Abdominal discomfort
+Constipation
+Frequent bowel movement
+Salivary hypersecretion
+
+Pancreatitis
+Dysphagia
+
+
+Hepatobiliary disorders
+
+
+
+
+Liver function test abnormal 
+Hepatic enzyme increased
+Alanine aminotransferase increased
+Gamma-glutamyl transferase increased
+Blood bilirubin increased
+Aspartate aminotransferase increased
+
+Hepatic failure
+Jaundice
+Hepatitis
+Alkaline phosphatase increased
+
+
+
+Skin and subcutaneous tissue disorders
+
+
+
+
+Alopecia
+Acne
+Rosacea
+Eczema
+Skin induration
+
+Rash
+Photosensitivity reaction
+Hyperhidrosis
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+
+Musculoskeletal and connective tissue disorders
+
+
+Musculoskeletal stiffness
+
+Muscle rigidity
+Muscle spasms
+Muscle twitching
+Muscle tightness
+Myalgia
+Pain in extremity
+Arthralgia
+Back pain
+Joint range of motion decreased
+Nuchal rigidity
+Trismus
+
+Rhabdomyolysis
+
+
+Renal and urinary disorders
+
+
+
+
+Nephrolithiasis
+Glycosuria
+
+
+Urinary retention
+Urinary incontinence
+
+
+
+Pregnancy, puerperium and perinatal conditions
+
+
+
+
+
+
+Drug withdrawal syndrome neonatal (see section 4.6)
+
+
+
+Reproductive system and breast disorders
+
+
+Erectile dysfunction
+
+Galactorrhoea
+Gynaecomastia
+Breast tenderness
+Vulvovaginal dryness
+
+Priapism
+
+
+General disorders and administration site conditions
+
+
+
+Injection site pain
+Injection site induration 
+Fatigue
+
+Pyrexia
+Asthenia
+Gait disturbance
+Chest discomfort
+Injection site reaction
+Injection site erythema
+Injection site swelling
+Injection site discomfort
+Injection site pruritus
+Thirst
+Sluggishness 
+
+Temperature regulation disorder (e.g. hypothermia, pyrexia)
+Chest pain
+Peripheral oedema
+
+
+Investigations
+
+
+
+Blood creatine phosphokinase increased
+
+Blood glucose increased
+Blood glucose decreased
+Glycosylated haemoglobin increased
+Waist circumference increased
+Blood cholesterol decreased
+Blood triglycerides decreased
+
+Blood glucose fluctuation
+
+
+
+Description of selected adverse reactions
+
+
+Injection site reactions
+
+During the double-blind, controlled phases of the two long-term trials, injection site reactions were observed; those seen were generally mild to moderate in severity, and resolved over time. Injection site pain (incidence 5.1 %), had a median onset on day 2 after the injection and a median duration of 4 days.
+In an open label study comparing bioavailability of Abilify Maintena administered in the deltoid or gluteal muscle, injection site related reactions were slightly more frequent in the deltoid muscle. The majority were mild and improved on subsequent injections. When compared to studies where Abilify Maintena was injected in the gluteal muscle, repeated occurrence of injection site pain was more frequent in the deltoid muscle.
+
+Leukopenia
+
+Neutropenia has been reported in the clinical program with Abilify Maintena and typically started around day 16 after first injection, and lasted a median of 18 days.
+
+Extrapyramidal Symptoms (EPS)
+
+In trials in stable patients with schizophrenia, Abilify Maintena was associated with a higher frequency of EPS symptoms (18.4 %) than oral aripiprazole treatment (11.7 %). Akathisia was the most frequently observed symptom (8.2 %) and typically started around day 10 after first injection, and lasted a median of 56 days. Subjects with akathisia typically received anti-cholinergic medicines as treatment, primarily benzatropine mesilate and trihexyphenidyl. Less often substances such as propranolol and benzodiazepines (clonazepam and diazepam) were administered to control akathisia. Parkinsonism events followed in frequency of 6.9 % for Abilify Maintena, 4.15 % for oral aripiprazole 10-30 mg tablets and 3.0 % for placebo, respectively.
+
+Dystonia
+
+Class effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment. Dystonic symptoms include spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue. While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic medicinal products. An elevated risk of acute dystonia is observed in males and younger age groups.
+
+Weight
+
+During the Double-blind, Active-controlled Phase of the 38-week long-term trial, the incidence of weight gain of ≥ 7 % from baseline to last visit was 9.5 % for Abilify Maintena and 11.7 % for the oral aripiprazole tablets 10-30 mg. The incidence of weight loss of ≥ 7 % from baseline to last visit was 10.2 % for Abilify Maintena and 4.5 % for oral aripiprazole tablets 10-30 mg. During the Double-blind, Placebo-controlled Phase of the 52-week long-term trial, the incidence of weight gain of ≥ 7 % from baseline to last visit was 6.4 % for Abilify Maintena and 5.2 % for placebo. The incidence of weight loss of ≥ 7 % from baseline to last visit was 6.4 % for Abilify Maintena and 6.7 % for placebo. During double-blind treatment, mean change in body weight from baseline to last visit was -0.2 kg for Abilify Maintena and -0.4 kg for placebo (p = 0.812).
+
+Prolactin
+
+In clinical trials for the approved indications and post-marketing, both increase and decrease in serum prolactin as compared to baseline was observed with aripiprazole (section 5.1).
+
+Pathological gambling and other impulse control disorders
+
+Pathological gambling, hypersexuality, compulsive shopping and binge or compulsive eating can occur in patients treated with aripiprazole (see section 4.4).
+
+Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the Yellow Card Scheme
+Website: www.mhra.gov.uk/yellowcard or search for MHRA Yellow Card in the Google Play or Apple App Store.
+4.9 Overdose
+No cases of overdose associated with adverse reactions were reported in clinical studies with Abilify Maintena. Care must be taken to avoid inadvertent injection of this medicinal product into a blood vessel. Following any confirmed or suspected accidental overdose/inadvertent intravenous administration, close observation of the patient is needed and if any potentially medically serious sign or symptom develops, monitoring, which should include continuous electrocardiographic monitoring, is required. The medical supervision and monitoring should continue until the patient recovers.
+A simulation of dose dumping showed that the predicted median aripiprazole concentration reaches a peak of 4,500 ng/ml or approximately 9 times the upper therapeutic range. In case of dose dumping, aripiprazole concentrations are predicted to descend rapidly to the upper limit of the therapeutic window after approximately 3 days. By the 7th day, the median aripiprazole concentrations further decline to concentrations following an IM depot dose with no dose dumping. While overdose is less likely with parenteral than oral medicinal products, reference information for oral aripiprazole overdose is presented below.
+
+Signs and symptoms
+
+In clinical trials and post-marketing experience, accidental or intentional acute overdose of aripiprazole alone was identified in adult patients with reported estimated doses up to 1,260 mg (41 times highest recommended daily aripiprazole dose) with no fatalities. The potentially medically important signs and symptoms observed included lethargy, increased blood pressure, somnolence, tachycardia, nausea, vomiting and diarrhoea. In addition, reports of accidental overdose with aripiprazole alone (up to 195 mg) in children have been received with no fatalities. The potentially medically serious signs and symptoms reported included somnolence, transient loss of consciousness and extrapyramidal symptoms.
+
+Management of overdose
+
+Management of overdose should concentrate on supportive therapy, maintaining an adequate airway, oxygenation and ventilation, and management of symptoms. The possibility of multiple medicinal product involvement should be considered. Therefore, cardiovascular monitoring should be started immediately and should include continuous electrocardiographic monitoring to detect possible arrhythmias. Following any confirmed or suspected overdose with aripiprazole, close medical supervision and monitoring should continue until the patient recovers.
+
+Haemodialysis
+
+Although there is no information on the effect of haemodialysis in treating an overdose with aripiprazole, haemodialysis is unlikely to be useful in overdose management since aripiprazole is highly bound to plasma proteins.
+5. Pharmacological properties
+5.1 Pharmacodynamic properties
+Pharmacotherapeutic group: Psycholeptics, other antipsychotics, ATC code: N05AX12
+
+Mechanism of action
+
+It has been proposed that aripiprazole's efficacy in schizophrenia is mediated through a combination of partial agonism at dopamine D2 and serotonin 5-HT1A receptors and antagonism at serotonin 5-HT2A receptors. Aripiprazole exhibited antagonist properties in animal models of dopaminergic hyperactivity and agonist properties of dopaminergic hypoactivity. Aripiprazole exhibits high binding affinity in vitro for dopamine D2 and D3, serotonin 5-HT1A and 5-HT2A receptors and has moderate affinity for dopamine D4, serotonin 5-HT2C and 5-HT7, alpha-1 adrenergic, and histamine H1 receptors. Aripiprazole also exhibited moderate binding affinity for the serotonin reuptake site and no appreciable affinity for cholinergic muscarinic receptors. Interaction with receptors other than dopamine and serotonin subtypes may explain some of the other clinical effects of aripiprazole.
+Aripiprazole oral doses ranging from 0.5 to 30 mg administered once a day to healthy subjects for 2 weeks produced a dose-dependent reduction in the binding of 11C-raclopride, a D2/D3 receptor ligand, to the caudate and putamen detected by positron emission tomography.
+
+Clinical efficacy and safety
+
+
+Maintenance treatment of schizophrenia in adults
+
+The efficacy of Abilify Maintena in the maintenance treatment of patients with schizophrenia was established in two randomised, double-blind, long-term trials.
+The pivotal trial was a 38 week, randomised, double-blind, active-controlled trial designed to establish the efficacy, safety, and tolerability of this medicinal product administered as monthly injections compared to once daily oral aripiprazole tablets 10-30 mg as maintenance treatment in adult patients with schizophrenia. This trial consisted of a screening phase and 3 treatment phases: Conversion Phase, Oral Stabilisation Phase, and Double-blind, Active-controlled Phase.
+Six-hundred and sixty two patients eligible for the 38-week Double-blind, Active-controlled Phase were randomly assigned in a 2:2:1 ratio to double-blind treatment to one of 3 treatment groups: 1) Abilify Maintena 2) the stabilisation dose of oral aripiprazole 10-30 mg, or 3) aripiprazole Long-Acting Injectable 50 mg/25 mg. The aripiprazole Long-Acting Injectable 50 mg/25 mg dose was included as a low dose aripiprazole to test assay sensitivity for the non-inferiority design.
+The results of analysis of the primary efficacy endpoint, the estimated proportion of patients experiencing impending relapse by end of Week 26 of the Double-blind, Active-controlled Phase, showed that Abilify Maintena 400 mg/300 mg is non-inferior to aripiprazole oral tablets 10-30 mg.
+The estimated relapse rate by end of Week 26 was 7.12 % for Abilify Maintena, and 7.76 % for oral aripiprazole tablets 10-30 mg, a difference of −0.64 %.
+The 95 % CI (−5.26, 3.99) for the difference in the estimated proportion of patients experiencing impending relapse by end of Week 26 excluded the predefined non-inferiority margin, 11.5 %. Therefore, Abilify Maintena is non-inferior to aripiprazole oral tablets 10-30 mg.
+The estimated proportion of patients experiencing impending relapse by end of Week 26 for Abilify Maintena was 7.12 %, which was statistically significantly lower than in aripiprazole Long-Acting Injectable 50 mg/25 mg (21.80 %; p = 0.0006). Thus, superiority of Abilify Maintena over the aripiprazole Long-Acting Injectable 50 mg/25 mg was established and the validity of the trial design was confirmed.
+The Kaplan-Meier curves of the time from randomisation to impending relapse during the 38-week, Double-blind, Active-controlled Phase for Abilify Maintena, oral aripiprazole 10-30 mg, and aripiprazole Long-Acting Injectable 50 mg/25 mg are shown in Figure 1.
+
+Figure 1 Kaplan-Meier Product Limit Plot for Time to Exacerbation of Psychotic Symptoms/Impending Relapse
+
+
+NOTE: ARIP IMD 400/300 mg = Abilify Maintena;ARIP 10-30 mg = oral aripiprazole; ARIP IMD 50/25 mg = Long-acting Injectable
+Further, the non-inferiority of Abilify Maintena compared to oral aripiprazole 10-30 mg is supported by the results of the analysis of the Positive and Negative Syndrome Scale score (PANSS).
+
+Table 1 PANSS Total Score – Change From Baseline to Week 38-LOCF: Randomised Efficacy Samplea, b
+
+
+
+PANSS Total Score – Change From Baseline to Week 38-LOCF:
+
+
+Randomised Efficacy Samplea, b
+
+
+
+
+Abilify Maintena
+
+ 400 mg/300 mg
+(n = 263)
+
+Oral aripiprazole
+
+10-30 mg/day
+(n = 266)
+
+Aripiprazole Long-Acting Injectable
+
+50 mg/25 mg
+(n = 131)
+
+
+Mean baseline (SD)
+
+
+57.9 (12.94)
+
+56.6 (12.65)
+
+56.1 (12.59)
+
+
+Mean change (SD)
+
+
+
+						−1.8 (10.49)
+
+0.7 (11.60)
+
+3.2 (14.45)
+
+
+P-value
+
+
+NA
+
+0.0272
+
+0.0002
+
+a: Negative change in score indicates improvement.
+b: Only patients having both baseline and at least one post baseline were included. P-values were derived from comparison for change from baseline within analysis of covariance model with treatment as term and baseline as covariate.
+The second trial was a 52-week, randomised, withdrawal, double-blind, trial conducted in US adult patients with a current diagnosis of schizophrenia. This trial consisted of a screening phase and 4 treatment phases: Conversion, Oral Stabilisation, Abilify Maintena Stabilisation, and Double-blind Placebo-controlled. Patients fulfilling the oral stabilisation requirement in the Oral Stabilisation Phase were assigned to receive, in a single-blind fashion, Abilify Maintena and began an Abilify Maintena Stabilisation Phase for a minimum of 12 weeks and a maximum of 36 weeks. Patients eligible for the Double-blind, Placebo-controlled Phase were randomly assigned in a 2:1 ratio to double-blind treatment with Abilify Maintena or placebo, respectively.
+The final efficacy analysis included 403 randomised patients and 80 exacerbations of psychotic symptoms/impending relapse events. In the placebo group 39.6 % of the patients had progressed to impending relapse, whilst in the Abilify Maintena group impending relapse occurred in 10 % of the patients; thus patients in the placebo group had a 5.03-fold greater risk of experiencing impending relapse.
+
+Prolactin
+
+In the Double-blind, Active-controlled Phase of the 38-week trial, from baseline to last visit there was a mean decrease in prolactin levels in Abilify Maintena (−0.33 ng/ml) compared with a mean increase in oral aripiprazole tablets 10-30 mg (0.79 ng/ml; p < 0.01). The incidence of Abilify Maintena patients with prolactin levels > 1 time the upper limit of normal range (ULN) at any assessment was 5.4 % compared with 3.5 % of the patients on oral aripiprazole tablets 10-30 mg.
+Male patients generally had a higher incidence than female patients in each treatment group.
+In the Double-blind Placebo-controlled Phase of the 52-week trial, from baseline to last visit there was a mean decrease in prolactin levels in Abilify Maintena (−0.38 ng/ml) compared with a mean increase in placebo (1.67 ng/ml). The incidences of Abilify Maintena patients with prolactin levels > 1 time the upper limit of normal range (ULN) was 1.9 % compared to 7.1 % for placebo patients.
+
+Acute treatment of schizophrenia in adults
+
+The efficacy of Abilify Maintena in acutely relapsed adult patients with schizophrenia was established in a short-term (12-week), randomised, double-blind, placebo-controlled trial (n = 339).
+The primary endpoint (change in PANSS total score from baseline to week 10) showed superiority of Abilify Maintena (n = 167) over placebo (n = 172).
+Similar to the PANSS Total Score, both the PANSS positive and negative subscale scores also showed an improvement (decrease) from baseline over time.
+
+Table 2 PANSS Total Score – Change From Baseline to week 10: Randomised Efficacy Sample
+
+
+
+PANSS Total Score – Change From Baseline to Week 10:
+
+
+Randomised Efficacy Sample a
+
+
+
+
+
+Abilify Maintena
+
+
+400 mg/300 mg
+
+
+
+Placebo
+
+
+
+
+Mean baseline (SD)
+
+
+102.4 (11.4)
+n = 162
+
+103.4 (11.1)
+n = 167
+
+
+LS Mean change (SE)
+
+
+
+						−26.8 (1.6)
+n = 99
+
+
+						−11.7 (1.6)
+n = 81
+
+
+P-value
+
+
+< 0.0001
+
+
+
+
+Treatment differenceb (95 % CI)
+
+
+
+						−15.1 (−19.4, −10.8)
+
+
+
+
+a Data were analysed using a mixed model repeated measures (MMRM) approach. The analysis included only subjects who were randomly assigned to treatment, given at least one injection, had baseline and at least one post-baseline efficacy assessment.
+
+b Difference (Abilify Maintena minus placebo) in least squares mean change from baseline.
+Abilify Maintena also showed statistically significant improvement in symptoms represented by CGIS score change from baseline to week 10.
+Personal and social functioning were evaluated using the Personal and Social Performance (PSP) scale. The PSP is a validated clinician-rated scale that measures personal and social functioning in four domains: socially useful activities (e.g. work and study), personal and social relationships, self-care, and disturbing and aggressive behaviours. There was a statistically significant treatment difference in favour of Abilify Maintena 400 mg/300 mg compared to placebo at week 10 (+7.1, p < 0.0001, 95 % CI: 4.1, 10.1 using an ANCOVA model (LOCF)).
+The safety profile was consistent with that known to Abilify Maintena. Nevertheless, there were differences from what has been observed with maintenance use in the treatment of schizophrenia. In a short-term (12-week), randomised, double-blind, placebo-controlled trial with Abilify Maintena 400 mg/300 mg treated subjects the symptoms which had at least twice the incidence of placebo were increased weight and akathisia. The incidence of weight gain of ≥ 7 % from baseline to last visit (week 12) was 21.5 % for Abilify Maintena compared with the placebo group 8.5 %. Akathisia was the most frequently observed EPS symptom (Abilify Maintena 11.4 % and placebo group 3.5 %).
+
+Paediatric population
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Abilify Maintena in all subsets of the paediatric population in schizophrenia (see section 4.2).
+5.2 Pharmacokinetic properties
+
+Absorption
+
+Aripiprazole absorption into the systemic circulation is slow and prolonged following Abilify Maintena administration due to low solubility of aripiprazole particles.The average absorption half-life of Abilify Maintena is 28 days. Absorption of aripiprazole from the IM depot formulation was complete relative to the IM standard (immediate-release) formulation. The dose adjusted Cmax values for the depot formulation were approximately 5 % of Cmax from IM standard formulation.Following a single dose administration of Abilify Maintena in the deltoid and gluteal muscle, the extent of absorption (AUC) was similar for both injection sites, but the rate of absorption (Cmax) was higher following administration to the deltoid muscle. Following multiple intramuscular doses, the plasma concentrations of aripiprazole gradually rise to a maximum plasma concentration at a median tmax of 7 days for the gluteal muscle and 4 days for the deltoid muscle. Steady state concentrations for the typical subject were attained by the fourth dose for both sites of administration. Less than dose-proportional increases in aripiprazole and dehydro-aripiprazole concentrations and AUC parameters are observed after monthly Abilify Maintena injections of 300 mg to 400 mg.
+
+Distribution
+
+Based on results from trials with oral administration of aripiprazole, aripiprazole is widely distributed throughout the body with an apparent volume of distribution of 4.9 l/kg, indicating extensive extravascular distribution. At therapeutic concentrations, aripiprazole and dehydro-aripiprazole are greater than 99 % bound to serum proteins, binding primarily to albumin.
+
+Biotransformation
+
+Aripiprazole is extensively metabolised by the liver primarily by three biotransformation pathways: dehydrogenation, hydroxylation, and N-dealkylation. Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalysed by CYP3A4. Aripiprazole is the predominant medicinal product moiety in systemic circulation. After multiple dose administration of Abilify Maintena, dehydro-aripiprazole, the active metabolite, represents about 29.1-32.5 % of aripiprazole AUC in plasma.
+
+Elimination
+
+After administration of multiple dose of 400 mg or 300 mg of Abilify Maintena, the mean aripiprazole terminal elimination half-life is respectively 46.5 and 29.9 days presumably due to absorption rate-limited kinetics. Following a single oral dose of [14C]-labelled aripiprazole, approximately 27 % of the administered radioactivity was recovered in the urine and approximately 60 % in the faeces. Less than 1 % of unchanged aripiprazole was excreted in the urine and approximately 18 % was recovered unchanged in the faeces.
+
+Pharmacokinetics in special patient groups
+
+
+CYP2D6 poor metabolisers
+
+Based on population pharmacokinetic evaluation of Abilify Maintena, the total body clearance of aripiprazole was 3.71 L/h in extensive metabolisers of CYP2D6 and approximately 1.88 L/h (approximately 50 % lower) in poor metabolisers of CYP2D6 (for dose recommendation, see section 4.2).
+
+Elderly
+
+After oral administration of aripiprazole, there are no differences in the pharmacokinetics of aripiprazole between healthy elderly and younger adult subjects. Similarly, there was no detectable effect of age in a population pharmacokinetic analysis of Abilify Maintena in schizophrenia patients.
+
+Gender
+
+After oral administration of aripiprazole, there are no differences in the pharmacokinetics of aripiprazole between healthy male and female subjects. Similarly, there was no clinically relevant effect of gender in a population pharmacokinetic analysis of Abilify Maintena in clinical trials in patients with schizophrenia.
+
+Smoking
+
+Population pharmacokinetic evaluation of oral aripiprazole has revealed no evidence of clinically relevant effects from smoking on the pharmacokinetics of aripiprazole.
+
+Race
+
+Population pharmacokinetic evaluation showed no evidence of race-related differences on the pharmacokinetics of aripiprazole.
+
+Renal impairment
+
+In a single-dose study with oral administration of aripiprazole, the pharmacokinetic characteristics of aripiprazole and dehydro-aripiprazole were found to be similar in patients with severe renal disease compared to that in young healthy subjects.
+
+Hepatic impairment
+
+A single-dose study with oral administration of aripiprazole to subjects with varying degrees of liver cirrhosis (Child-Pugh Classes A, B, and C) did not reveal a significant effect of hepatic impairment on the pharmacokinetics of aripiprazole and dehydro-aripiprazole, but the study included only 3 patients with Class C liver cirrhosis, which is insufficient to draw conclusions on their metabolic capacity.
+5.3 Preclinical safety data
+The toxicological profile for aripiprazole administered to experimental animals by intramuscular injection is generally similar to that seen following oral administration at comparable plasma levels. With intramuscular injection, however an inflammatory response was seen at the injection site, and consisted of granulomatous inflammation, foci (deposited drug), cellular infiltrates, oedema (swelling) and, in monkeys, fibrosis. These effects gradually resolved with discontinuation of dosing.
+Non-clinical safety data for orally administered aripiprazole reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction and development.
+
+Oral aripiprazole
+
+For oral aripiprazole, toxicologically significant effects were observed only at doses or exposures that were sufficiently in excess of the maximum human dose or exposure, indicating that these effects were limited or of no relevance to clinical use. These included: dose-dependent adrenocortical toxicity in rats after 104 weeks of oral administration at approximately 3 to 10 times the mean steady-state AUC at the maximum recommended human dose and increased adrenocortical carcinomas and combined adrenocortical adenomas/carcinomas in female rats at approximately 10 times the mean steady-state AUC at the maximum recommended human dose. The highest non-tumorigenic exposure in female rats was approximately 7 times the human exposure at the recommended dose.
+An additional finding was cholelithiasis as a consequence of precipitation of sulphate conjugates of hydroxy-metabolites of aripiprazole in the bile of monkeys after repeated oral dosing at 25 to 125 mg/kg/day or approximately16 to 81 times the maximum recommended human dose based on mg/m2.
+However, the concentrations of the sulphate conjugates of hydroxy-aripiprazole in human bile at the highest dose proposed, 30 mg per day, were no more than 6 % of the bile concentrations found in the monkeys in the 39-week study and are well below (6 %) their limits of in vitro solubility.
+In repeated dose studies in juvenile rats and dogs, the toxicity profile of aripiprazole was comparable to that observed in adult animals, and there was no evidence of neurotoxicity or adverse events on development.
+Based on results of a full range of standard genotoxicity tests, aripiprazole was considered non-genotoxic. Aripiprazole did not impair fertility in reproductive toxicity studies.
+Developmental toxicity, including dose-dependent delayed foetal ossification and possible teratogenic effects, were observed in rats at doses resulting in sub-therapeutic exposures (based on AUC) and in rabbits at doses resulting in exposures approximately 3 and 11 times the mean steady-state AUC at the maximum recommended clinical dose. Maternal toxicity occurred at doses similar to those eliciting developmental toxicity.
+6. Pharmaceutical particulars
+6.1 List of excipients
+
+Powder
+
+Carmellose sodium
+Mannitol
+Sodium dihydrogen phosphate monohydrate
+Sodium hydroxide
+
+Solvent
+
+Water for injections
+6.2 Incompatibilities
+Not applicable
+6.3 Shelf life
+3 years
+
+Abilify Maintena powder and solvent for prolonged-release suspension for injection
+
+The suspension should be injected immediately after reconstitution but can be stored below 25 °C for up to 4 hours in the vial.
+
+Abilify Maintena powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+The suspension should be injected immediately after reconstitution but can be stored below 25 °C for up to 2 hours in the syringe.
+
+After reconstitution
+
+
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection
+
+
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection
+
+Chemical and physical in-use stability has been demonstrated for 4 hours at 25 °C. From a microbiological point of view, unless the method of opening/ reconstitution precludes the risk of microbial contamination, the product should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of user. Do not store the reconstituted suspension in the syringe.
+
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+If the injection is not performed immediately after reconstitution, the syringe can be kept below 25 °C for up to 2 hours.
+6.4 Special precautions for storage
+Do not freeze.
+
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+Keep the syringe in the outer carton in order to protect from light.
+For storage conditions after reconstitution of the medicinal product, see section 6.3.
+6.5 Nature and contents of container
+
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection
+
+
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection
+
+
+Vial
+
+Type-I glass vial stoppered with a laminated rubber stopper and sealed with a flip-off aluminium cap.
+
+Solvent
+
+2 ml Type-1 glass vial stoppered with a laminated rubber stopper and sealed with a flip-off aluminium cap.
+
+Single pack
+
+Each single pack containing one vial of powder, 2 ml vial of solvent, one 3 ml luer lock syringe with pre-attached 38 mm (1.5 inch) 21 gauge, hypodermic safety needle with needle protection device, one 3 ml disposable syringe with luer lock tip, one vial adapter and three hypodermic safety needles: one 25 mm (1 inch) 23 gauge, one 38 mm (1.5 inch) 22 gauge and one 51 mm (2 inch) 21 gauge.
+
+Multipack
+
+Bundle pack of 3 single packs.
+
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+Clear glass pre-filled syringe (type-I glass) with grey chlorobutyl stoppers (front-, middle- and end stopper), polypropylene front assembly, polypropylene finger grip, plunger rod, and silicone over-cap. The front chamber between front stopper and middle stopper contains the powder and the rear chamber between middle stopper and end stopper the solvent.
+
+Single pack
+
+Each single pack containing one pre-filled syringe, and three hypodermic safety needles: one 25 mm (1 inch) 23 gauge, one 38 mm (1.5 inch) 22 gauge and one 51 mm (2 inch) 21 gauge.
+
+Multipack
+
+Bundle pack of 3 single packs.
+Not all pack sizes may be marketed.
+6.6 Special precautions for disposal and other handling
+
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection
+
+
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection
+
+Shake the vial vigorously for at least 30 seconds until the suspension appears uniform.
+If the injection is not performed immediately after reconstitution shake it vigorously for at least 60 seconds to re-suspend prior to injection.
+
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+Vertically shake the syringe vigorously for 20 seconds until medicine is uniformly milky-white and use immediately. If the injection is not performed immediately after reconstitution, the syringe can be kept below 25 °C for up to 2 hours. Shake the syringe vigorously for at least 20 seconds to re-suspend prior to injection if the syringe has been left for more than 15 minutes.
+
+Gluteal muscle administration
+
+The recommended needle for gluteal administration is a 38 mm (1.5 inch), 22 gauge hypodermic safety needle; for obese patients (Body mass index > 28 kg/m2), a 51 mm (2 inch), 21 gauge hypodermic safety needle should be used. Gluteal injections should be alternated between the two gluteal muscles.
+
+Deltoid muscle administration
+
+The recommended needle for deltoid administration is a 25 mm (1 inch), 23 gauge hypodermic safety needle; for obese patients, a 38 mm (1.5 inch), 22 gauge hypodermic safety needle should be used.
+Deltoid injections should be alternated between the two deltoid muscles.
+The powder and solvent vials and the pre-filled syringe are for single-use only.
+Discard vial, adapter, syringe, needles, unused suspension and water for injections appropriately.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Full instructions for use and handling of Abilify Maintena are provided in the package leaflet (information intended for healthcare professionals).
+7. Marketing authorisation holder
+Otsuka Pharmaceutical Netherlands B.V.
+Herikerbergweg 292
+1101 CT, Amsterdam
+Netherlands
+8. Marketing authorisation number(s)
+
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection
+
+EU/1/13/882/001
+EU/1/13/882/003
+
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection
+
+EU/1/13/882/002
+EU/1/13/882/004
+
+Abilify Maintena 300 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+EU/1/13/882/005
+EU/1/13/882/007
+
+Abilify Maintena 400 mg powder and solvent for prolonged-release suspension for injection in pre-filled syringe
+
+EU/1/13/882/006
+EU/1/13/882/008
+9. Date of first authorisation/renewal of the authorisation
+Date of first authorisation: 15 November 2013
+Date of latest renewal: 27 August 2018
+10. Date of revision of the text
+October 2020
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+

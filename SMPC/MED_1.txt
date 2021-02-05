@@ -1,0 +1,241 @@
+
+
+This information is intended for use by health professionals
+
+1. Name of the medicinal product
+Retinol and Colecalciferol 4500 IU/450 IU Capsule, Soft
+2. Qualitative and quantitative composition
+Each capsule contains 2645 micrograms of retinol palmitate (equivalent to 4500 IU of Vitamin A) and 11 micrograms of colecalciferol (equivalent to 450 IU of Vitamin D3).
+For the full list of excipients, see section 6.1.
+3. Pharmaceutical form
+Capsule, soft (capsule)
+Clear, slightly yellow, liquid filled capsule about 12 mm in length.
+4. Clinical particulars
+4.1 Therapeutic indications
+Retinol 4500 IU and Colecalciferol 450 IU Capsules are indicated as a therapeutic dietary adjunct for prevention of vitamins A and D deficiency in adults and children over 6 years of age with an identified risk. 
+4.2 Posology and method of administration
+
+Posology
+
+Adults and children over 6 years old:  1 capsule per day. Increase to two capsules per day, if required, as guided by serum values.
+Patients with cystic fibrosis are at increased risk of vitamin A and D deficiency.
+
+Paediatric population
+
+Not recommended for children under 6 years old due to risk of choking.
+Do not exceed the stated dose.
+
+Method of administration
+
+For oral administration. 
+4.3 Contraindications
+Hypersensitivity to vitamin A or vitamin D or to any of the excipients listed in section 6.1. 
+Do not use during pregnancy and lactation.
+Diseases or conditions resulting in hypercalcaemia and/or hypercalciuria.
+Hypervitaminosis A or D.
+Severe renal impairment.
+This medicinal product contains traces of soya bean lecithin. If you are allergic to peanut or soya, do not use this medicinal product.
+4.4 Special warnings and precautions for use
+Do not take other supplements of vitamin A and D whilst taking this product.
+There are serious risks of developing hypercalcaemia when calcium salts or thiazides are co-administered. Serum calcium, phosphate, alkaline phosphatase, liver function tests and magnesium should be monitored when indicated. 
+ 
+The risk for hypervitaminosis A and vitamin A toxicity (e.g. skin and bone abnormalities, diplopia, cirrhosis) is increased in, for example:
+- patients with protein malnutrition,
+- patients with renal impairment (even in the absence of vitamin A supplementation),
+- patients with hepatic impairment,
+- patients with small body size (e.g. paediatric patients) and
+- patients on chronic therapy.
+Acute hepatic disease in patients with saturated hepatic vitamin A stores can lead to manifestation of vitamin A toxicity.
+Vitamin D should be used with caution in patients with impairment of renal function and the effect on calcium and phosphate levels should be monitored. The risk of soft tissue calcification should be taken into account. In patients with severe renal insufficiency, vitamin D in the form of colecalciferol is not metabolised normally and other forms of vitamin D should be used (see section 4.3, contraindications).
+Caution is required in patients receiving treatment for cardiovascular disease (see Section 4.5 – cardiac glycosides including digitalis).
+Vitamin D should be prescribed with caution to patients suffering from sarcoidosis because of the risk of increased metabolism of vitamin D to its active form. These patients should be monitored with regard to the calcium content in serum and urine.
+Vitamin A and D should be used with caution in patients with established osteoporosis.
+4.5 Interaction with other medicinal products and other forms of interaction
+Contraceptive pills raise plasma levels of Vitamin A. 
+Simultaneous treatment with ion exchange resins such as cholestyramine or laxatives such as paraffin oil may reduce the gastrointestinal absorption of vitamins A and D. 
+In patients concomitantly using agents that can cause pseudotumor cerebri (including certain tetracyclines) there is an increased risk for pseudotumor cerebri.
+Chronic excessive alcohol consumption increases the risk of vitamin A hepatotoxicity.
+In patients concomitantly using antiplatelet agents (e.g. aspirin), vitamin E can increase the inhibition of platelet function.  
+Certain anticonvulsants (e.g. phenytoin, carbamazepine, phenobarbital, valproate) can cause vitamin D deficiency.
+Certain antiretroviral agents (e.g. efavirenz and zidovudine) decrease vitamin D levels. Decreased formation of the active vitamin D metabolite has been associated with protease inhibitors.
+Retinoids, including bexarotene, increase the risk of toxicity when used concomitantly with vitamin A.
+In patients concomitantly using agents with anticoagulant effects (e.g. such as abciximab, clopidogrel, heparin, warfarin) increased bleeding risk has been associated with  high vitamin A doses.
+As both Vitamin D and thiazide diuretics increase the plasma concentration of calcium, co-administration of these agents may result in hypercalcaemia.  
+The effects of digitalis and other cardiac glycosides may be accentuated with the oral administration of calcium combined with Vitamin D. Vitamin D also enhances magnesium absorption. Strict medical supervision is needed and, if necessary monitoring of ECG and calcium.
+Concomitant treatment with phenytoin or barbiturates can decrease the effect of vitamin D because of metabolic activation. Concomitant use of glucocorticoids can decrease the effect of vitamin D. 
+The cytotoxic agent actinomycin and imidazole antifungal agents interfere with vitamin D activity by inhibiting the conversion of 25-hydroxyvitamin D to 1,25-dihydroxyvitamin D by the kidney enzyme, 25-hydroxyvitamin D-1-hydroxylase.
+4.6 Fertility, pregnancy and lactation
+
+Pregnancy
+
+Large doses of vitamin A (exceeding 10,000IU) have been found to be teratogenic if administered during the first trimester of pregnancy. Studies in animals have shown reproductive toxicity (see section 5.3).
+Studies have shown safe use of doses of vitamin D up to 4000IU during pregnancy although studies in animals have shown reproductive toxicity (see section 5.3). Adequate vitamin D intake is essential for maternal and fetal health during pregnancy, and epidemiological data indicate that many pregnant women have sub-optimal vitamin D levels. Notably, vitamin D deficiency correlates with preeclampsia, gestational diabetes mellitus, and bacterial vaginosis, and an increased risk for C-section delivery.
+Doses of vitamins A and D in excess of those recommended should be avoided during pregnancy unless the clinical condition of the women requires treatment with vitamins A and D.
+
+Breastfeeding
+
+Vitamin A is found in breast milk of lactating mothers. There is insufficient information on the effects of Vitamin A in newborns/infants. 
+Vitamin D and its metabolites are excreted in breast milk. Overdose in infants induced by nursing mothers has not been observed; however, when prescribing additional vitamin D to a breast-fed child the practitioner should consider the dose of any additional vitamin D given to the mother.
+A decision must be made whether to discontinue breast feeding or to discontinue/abstain from vitamins A and D therapy taking into account the benefit of breastfeeding for the child and the benefit of therapy for the woman.
+
+Fertility
+
+There are no data in humans concerning a possible effect of vitamin A on fertility.
+In studies with vitamin D in female rats the estrous cycle was disturbed. The changes were reversible and recovery was observed after the administration was discontinued. (see section 5.3). There are no data in humans concerning a possible effect of vitamin D on fertility.
+4.7 Effects on ability to drive and use machines
+None.
+4.8 Undesirable effects
+Vitamin excess can be harmful but a very large overdose of this product would need to be taken to result in undesirable effects. 
+Adverse reactions reported in the literature are listed below, by system organ class and frequency. Frequencies are defined as: 
+very common (≥1/10)
+common (≥1/100 to <1/10)
+uncommon (≥1/1,000 to <1/100)
+rare (≥1/10,000 to 1</1,000)
+very rare (<1/10,000)
+not known (cannot be estimated from the available data)
+
+
+Body System Organ Class
+
+
+
+frequency
+
+
+
+
+Adverse drug reactions associated with Vitamin A
+
+
+
+Adverse drug reactions associated with Vitamin D3
+
+
+
+Metabolism and nutrition disorders
+
+
+
+Frequency unknown:
+
+
+Hypervitaminosis; decreased appetite
+
+Hypercalcaemia; hypercalciuria
+
+
+Psychiatric disorders
+
+
+
+Frequency unknown:
+
+
+Irritability
+
+
+
+
+Nervous system disorders
+
+
+
+Frequency unknown:
+
+
+intracranial pressure increased
+
+
+
+
+Gastrointestinal disorders
+
+
+
+Frequency unknown:
+
+
+vomiting
+
+
+
+
+Hepatobiliary disorders
+
+
+
+Frequency unknown:
+
+
+liver disorder
+
+
+
+
+Skin and subcutaneous tissue disorders
+
+
+
+Frequency unknown:
+
+
+skin disorder
+
+Pruritus; rash; urticaria
+
+Paediatric population
+Vitamin A toxicity, initially presenting with irritability, vomiting, loss of appetite and skin changes, has been reported especially in children.
+
+Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the Yellow Card Scheme at: www.mhra.gov.uk/yellowcard. 
+4.9 Overdose
+Symptoms of overdose are unlikely following a single acute intake of vitamin A less than 1,500,000 units or vitamin D less than 50,000 units. 
+Vitamin A toxicity generally presents as irritability, vomiting, loss of appetite and skin changes.  In chronic hypervitaminosis, increased intracranial pressure and a cirrhosis-like liver syndrome are observed.
+Vitamin D toxicity leads to disturbed calcium metabolism and calcification of soft tissues including the lungs and kidneys.
+The most serious consequence of acute or chronic overdose is hypercalcaemia due to vitamin D toxicity. Symptoms may include nausea, vomiting, polyuria, anorexia, weakness, apathy, thirst and constipation. Chronic overdoses can lead to vascular and organ calcification as a result of hypercalcaemia. Treatment should consist of stopping all intake of vitamin D and rehydration.
+5. Pharmacological properties
+5.1 Pharmacodynamic properties
+Pharmacotherapeutic group: Vitamin A and D in combination ATC code: A11CB 
+The vitamin A and D content of the capsules ensures that normal dietary requirements are met.
+Vitamin A, is a fat soluble vitamin important in growth, development and maintenance of epithelial tissue and for vision. 
+In its biologically active form vitamin D3 stimulates intestinal calcium absorption, incorporation of calcium into the osteoid, and release of calcium from bone tissue. In the small intestine it promotes rapid and delayed calcium uptake. The passive and active transport of phosphate is also stimulated. In the kidney, it inhibits the excretion of calcium and phosphate by promoting tubular resorption. The production of parathyroid hormone (PTH) in the parathyroid is inhibited directly by the biologically active form of vitamin D3. PTH secretion is inhibited additionally by the increased calcium uptake in the small intestine under the influence of biologically active vitamin D3.
+5.2 Pharmacokinetic properties
+The fat soluble vitamins A (retinol) and D (calciferol) are well absorbed from the GI tract. They are stored in the liver (vitamin A) or in adipose and muscle tissue (calciferol). They are bound to specific α-globulins when in the blood. 
+The pharmacokinetics of vitamin D is well known. Vitamin D is well absorbed from the gastro-intestinal tract in the presence of bile. It is hydroxylated in the liver to form 25-hydroxycolecalciferol and then undergoes further hydroxylation in the kidney to form the active metabolite 1, 25 dihydroxycolecalciferol (calcitriol). The metabolites circulate in the blood bound to a specific α - globin, Vitamin D and its metabolites are excreted mainly in the bile and faeces.
+5.3 Preclinical safety data
+Effects in non-clinical studies with vitamin A were observed only at exposures considered sufficiently in excess of the maximum human exposure indicating little relevance to clinical use. 
+Studies in mouse, rat, hamster and monkey showed reproductive toxicity in the early phases of pregnancy at high doses (more than 125 times the human dose). 
+Vitamin A has no mutagenic potential. Carcinogenicity studies in rats on diets with high doses of retinyl acetate and retinyl palmitate showed a higher incidence of mammary adenocarcinomas in female rats and malignant phaeochromocytoma in male rats, however carcinogenic risk is very low at physiological concentrations and at therapeutic concentrations intended to prevent vitamin A deficiencies.
+Effects in non-clinical studies with vitamin D were observed only at exposures considered sufficiently in excess of the maximum human exposure indicating little relevance to clinical use. In addition, it has been demonstrated that some animal species (e.g., rats) may be too sensitive for results to be relevant to human risk assessment. 
+In studies in female rats the estrous cycle was disturbed with significantly lower estrogen levels being observed after more than 1 week of administration. The changes were reversible and recovery was observed in week 2 after the administration was discontinued. In both rats and rabbits, implantation and maintenance of the pregnancy were adversely affected by high doses of 1,25-dihydroxycholecalciferol due to histopathological changes to the reproductive organs and biochemical parameters. 
+Colecalciferol has been shown to be teratogenic in high doses in animals (4-15 times the human dose). Offspring from pregnant rabbits treated with high doses of vitamin D had lesions anatomically similar to those of supravalvular aortic stenosis and offspring not showing such changes show vasculotoxicity similar to that of adults following acute vitamin D toxicity. 
+Vitamin D has no mutagenic potential. Carcinogenicity studies have not been reported, however carcinogenic risk is very low at physiological concentrations and at therapeutic concentrations intended to treat vitamin D deficiencies.
+6. Pharmaceutical particulars
+6.1 List of excipients
+Capsule content: refined sunflower oil, all-rac-α-tocopherol
+Capsule shell: gelatin, glycerol, purified water
+6.2 Incompatibilities
+None known.
+6.3 Shelf life
+18 months
+6.4 Special precautions for storage
+Do not store above 30°C. Use within 12 weeks of opening.
+Please store the capsules in the original pot.
+6.5 Nature and contents of container
+Available in polypropylene pots with and LDPE cap containing 84 capsules
+6.6 Special precautions for disposal and other handling
+Not applicable
+7. Marketing authorisation holder
+TOR GENERICS Ltd 
+Tudor House 
+Northgate 
+Northwood HA6 2TH 
+United Kingdom
+8. Marketing authorisation number(s)
+PL 20491/0002
+9. Date of first authorisation/renewal of the authorisation
+31/05/2019
+10. Date of revision of the text
+31/05/2019
+
